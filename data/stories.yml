@@ -1,0 +1,16 @@
+version: "2.0"
+
+stories:
+
+- story: single papa
+  steps:
+  - or:
+    - intent: greet
+    - intent: goodbye
+    - intent: affirm
+    - intent: deny
+    - intent: mood_great
+    - intent: mood_unhappy
+    - intent: bot_challenge
+    - intent: nlu_fallback
+  - action: action_greet

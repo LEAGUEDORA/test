@@ -1,0 +1,5992 @@
+{
+    "0": {
+        "text": [
+            "Before we begin, How old are you?",
+            "Mbere y'uko dutangira  ufite imyaka ingahe?            "
+        ],
+        "buttons": [
+            {
+                "Under 13": "END+1",
+                "Above 13": "1"
+            },
+            {
+                "munsi ya 13 ": "END+1",
+                "Ndengeje imyaka 13 ": "1"
+            }
+        ]
+    },
+    "1": {
+        "text": [
+            "I'm here to chat with you about adolescent Sexual and Reproductive Health(SRH) and relationships",
+            "Ndi hano kugirango tuganire ku buzimwa bw'imyorokere, uburenganzira n'imibanire by'abangavu n'ingimbi        "
+        ],
+        "buttons": [
+            {
+                "Your're a person?": "2",
+                "Cool": "4"
+            },
+            {
+                "Uri umuntu   ": "2",
+                "Byiza       ": "4"
+            }
+        ]
+    },
+    "2": {
+        "text": [
+            "I'm not a person, but I think like a person",
+            "Ntabwo ndi umuntu ariko ntekereza nk'umuntu"
+        ],
+        "buttons": [
+            {
+                "Cool": "4",
+                "Tell me more": "3"
+            },
+            {
+                "Byiza ": "4",
+                "Nsobanurira birushijeho   ": "3"
+            }
+        ]
+    },
+    "3": {
+        "text": [
+            "I'm a computer that's trained to chat about adolescents' relationships and SRH",
+            "Nsobanurira birushijeho "
+        ],
+        "buttons": [
+            {
+                "Wow, that's great!": "4"
+            },
+            {
+                "Yoo mbega byiza        ": "4"
+            }
+        ]
+    },
+    "4": {
+        "text": [
+            "Do you know what SRH is?",
+            "Ese waba uzi Ubuzima  n'uburenganzira bw'imyororokere icyo aricyo?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "5",
+                "No/Not sure": "6"
+            },
+            {
+                "Yego        ": "5",
+                "Simbizi neza        ": "6"
+            }
+        ]
+    },
+    "5": {
+        "text": [
+            "Before we chat more, I need to tell you a bit more about myself.\n You can read out Privacy and Data Protection policies [here](www.google.com)",
+            "Mbere yuko dukomeza ikiganiro, nkeneye kukwibwira ku buryo burambuye            "
+        ],
+        "buttons": [
+            {
+                "I agree": "7.1",
+                "Learn more": "7"
+            },
+            {
+                "Ndabyemeye        ": "7.1",
+                "menya byinshi        ": "7"
+            }
+        ]
+    },
+    "6": {
+        "text": [
+            "SRH is everything related to love, sex, and your sexual and reporductive health\n",
+            "Ubuzima bw'imyororokere ni ikintu cyose kivuga ku bijyanye n'Igitsina, Imibonano mpuzabitsina, imyororokere ndetse n'uburenganzira bujyanye nabyo            "
+        ],
+        "buttons": [
+            {
+                "I agree": "5"
+            },
+            {
+                "Ndabyemeye ": "5"
+            }
+        ]
+    },
+    "7": {
+        "text": [
+            "Link to policies on FB .",
+            "Ihuza na politiki kuri FB."
+        ],
+        "buttons": [
+            {
+                "Got it": "7.1",
+                "Yabonye": "7.1"
+            }
+        ]
+    },
+    "8": {
+        "text": [
+            "I'm here to help young people and parents to make more informed decisions about adolescent SRH and relationships I will ask you questions, but I will keep everything you share private I will use the information you share to get a better idea about what you need and want to know I will never share your information with anyone, but I will share what I learn from you (generally) so that we can improve SRH information and services in Rwanda",
+            "Ndi hano ngo mfashe Urubyiruko rw'ingimbi n'abangavu ndetse n'Ababyeyi  ku bijyanye n'ubuzima bw'Imyororokere kugirango babashe gufata ibyemezo byerekeye  urukundo n'ubuzima bw'imyororokere bafite amakuru ahagije        "
+        ],
+        "buttons": [
+            {
+                "I understand / agree": "9",
+                "I don't want you to keep my information ": " End+2  "
+            },
+            {
+                "missing 1": "9",
+                "missing 2": "END+2"
+            }
+        ]
+    },
+    "9": {
+        "text": [
+            "I also need to tell you that I am NOT an emergency helpline",
+            "Ndashaka kukumenyesha kandi ko NTARI umurongo utanga ubufasha bwihuse            "
+        ],
+        "buttons": [
+            {
+                "ok": "10"
+            },
+            {
+                "ok": "10"
+            }
+        ]
+    },
+    "10": {
+        "text": [
+            "No one is monitoring our conversation",
+            "Nta muntu ukurikirana ibiganiro byacu."
+        ],
+        "buttons": [
+            {
+                " : I understand": "11",
+                ": Ndabyumva": "11"
+            }
+        ]
+    },
+    "11": {
+        "text": [
+            "If you are in crisis, click on the button in the menu and I will give you numbers to call for help.",
+            "Niba ufite ikibazo ukeneye ubufasha , kanda kuri buto ya SOS hepfo hanyuma ndaguha numero zo guhamagara kugirango ubone ubufasha.            "
+        ],
+        "buttons": [
+            {
+                ": Great, thanks!": "12"
+            },
+            {
+                "Urakoze cyane        ": "12"
+            }
+        ]
+    },
+    "12": {
+        "text": [
+            "In the future, can I invite you to a chat or survey via smartphone?",
+            "Ese ubutaha nshobora kugutumira mu bushakashatsi bukoresheje Telefoni igendanwa ?             "
+        ],
+        "buttons": [
+            {
+                "Ok 👍🏾                ": "13",
+                "no ": "14"
+            },
+            {
+                "ok ": "13",
+                "oya": "14"
+            }
+        ]
+    },
+    "13": {
+        "text": [
+            "Great! [Box for mobile number including country code (+250) for Rwanda",
+            "Ni byiza!        "
+        ],
+        "skip": "15"
+    },
+    "14": {
+        "text": [
+            "Ok, no problem!",
+            "Niba wumva ntakibazo wakanda buto  ibikurikira kugirango dukomeze kuganira  "
+        ],
+        "buttons": [
+            {
+                "Next": "15"
+            },
+            {
+                "Ibikurikira            ": "15"
+            }
+        ]
+    },
+    "15": {
+        "text": [
+            "Ok, let's get started! I need to know a bit about you so I can give you information that's interesting to you!",
+            "Ok, reka dutangire! Nkeneye kumenya bike kuri wewe kugirango nguhe amakuru agushimishije!"
+        ],
+        "buttons": [
+            {
+                "Let's go!": "16",
+                "Reka tugende!": "16"
+            }
+        ]
+    },
+    "16": {
+        "text": [
+            "Which are you?",
+            "Igitsina cyawe ni ikihe?        "
+        ],
+        "buttons": [
+            {
+                " Female 🙋🏾‍♀‍": "17",
+                "boy": "17",
+                " Prefer not to say": "17"
+            },
+            {
+                "gore": "17",
+                "gabo": "17",
+                "Mpisemo kwicecekera            ": "17"
+            }
+        ]
+    },
+    "17": {
+        "text": [
+            "Great!.\n Do you have children?",
+            "Ni byiza! \nUfite abana?  "
+        ],
+        "buttons": [
+            {
+                " Yes": "18",
+                "No": "19"
+            },
+            {
+                "yego": "18",
+                "oya": "19"
+            }
+        ]
+    },
+    "18": {
+        "text": [
+            "Nice, children are a blessing!.\nDo you have any children aged 13-24?",
+            "Waba ufite umwana uri  mu kigero kiri hagati y'Imyaka 13-24?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "19",
+                "no ": "19"
+            },
+            {
+                "yego": "19",
+                "oya": "19"
+            }
+        ]
+    },
+    "19": {
+        "text": [
+            "Thanks for telling me about yourself!\nNow I'd like to find out what you know about adolescent SRH",
+            "Urakoze kutwibwira!\nUbu rero nkeneye kumenya ibyo uzi ku bijyanye n'ubuzima bw'imyororokere bw'ingimbi n'abangavu "
+        ],
+        "buttons": [
+            {
+                "No problem!": "20",
+                "Not now, thanks ": "41"
+            },
+            {
+                "Nta kibazo        ": "20",
+                "missing 3": "41"
+            }
+        ]
+    },
+    "20": {
+        "text": [
+            "Do you know where to get reliable information on...\nBirth control? ",
+            "Waba uzi ahantu hizewe wakura amakuru ku ubuzima bw'imyorokere?            \nKuringaniza urubyaro?            "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "21",
+                "👎🏾": "21"
+            },
+            {
+                "👍🏾": "21",
+                "👎🏾": "21"
+            }
+        ]
+    },
+    "21": {
+        "text": [
+            "Family planning?",
+            "Kuboneza urubyaro?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "22",
+                "👎🏾": "22"
+            },
+            {
+                "👍🏾": "22",
+                "👎🏾": "22"
+            }
+        ]
+    },
+    "22": {
+        "text": [
+            "Menstruation? ",
+            "Kujya mu mihango ?         "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "23",
+                "👎🏾": "23"
+            },
+            {
+                "👍🏾": "23",
+                "👎🏾": "23"
+            }
+        ]
+    },
+    "23": {
+        "text": [
+            "Puberty? ",
+            "Ubugimbi n'ubwangavu?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "24",
+                "👎🏾": "24"
+            },
+            {
+                "👍🏾": "24",
+                "👎🏾": "24"
+            }
+        ]
+    },
+    "24": {
+        "text": [
+            "Great!\nIf needed, can you access Condoms? ",
+            "Ni byiza!\nNiba bikenewe, urashobora kubona agakingirizo       "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "25",
+                "👎🏾": "25"
+            },
+            {
+                "👍🏾": "25",
+                "👎🏾": "25"
+            }
+        ]
+    },
+    "25": {
+        "text": [
+            "Birth control?",
+            "Kuringaniza urubyaro?"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "26",
+                "👎🏾": "26"
+            },
+            {
+                "👍🏾": "26",
+                "👎🏾": "26"
+            }
+        ]
+    },
+    "26": {
+        "text": [
+            "SRH services?",
+            "Serivisi z'Ubuzima bw'imyororokere?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "27",
+                "👎🏾": "27"
+            },
+            {
+                "👍🏾": "27",
+                "👎🏾": "27"
+            }
+        ]
+    },
+    "27": {
+        "text": [
+            "-Reliable SRH advice?",
+            "Inama zizewe ku buzima bw'Imyorokere?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "28",
+                "👎🏾": "28"
+            },
+            {
+                "👍🏾": "28",
+                "👎🏾": "28"
+            }
+        ]
+    },
+    "28": {
+        "text": [
+            "Good to know!\n Which statement is MOST accurate?\n",
+            "Nibyiza kubimenya!\nNi ayahe magambo ari menshi cyane?"
+        ],
+        "buttons": [
+            {
+                "Using a condom decreases your chances of becoming pregnant or getting HIV and other sexually transmitted infections and diseases ": "29",
+                "Using a condom guarantees you will not get pregnant or get HIV or another sexually transmitted infection or disease": "30"
+            },
+            {
+                "Gukoresha agakingirizo bigabanya amahirwe yo gutwita cyangwa kwandura virusi itera SIDA n'izindi ndwara zandurira mu mibonano mpuzabitsina": "29",
+                "Gukoresha agakingirizo byemeza ko utazasama cyangwa ngo wandure virusi itera SIDA cyangwa indi ndwara yandurira mu mibonano mpuzabitsina": "30"
+            }
+        ]
+    },
+    "29": {
+        "text": [
+            "Right\nTrue 👍🏽 or false 👎🏾?\n Boys are fertile before they have their first wet dream  ",
+            "Nibyo cyangwa sibyo abahungu bashobora gutera inda mbere yo gutangira kwiroteraho?(Kwiroteraho ni igihe umuhungu asohoye kandi asinziriye)        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "31",
+                "👎🏾": "32"
+            },
+            {
+                "👍🏾": "31",
+                "👎🏾": "32"
+            }
+        ]
+    },
+    "30": {
+        "text": [
+            " No, using a condom does not guarantee you won't get pregnant or get HIV or another sexually transmitted infection or disease but it does increase your safety ",
+            "Oya, gukoresha agakingirizo ntibisobanura ko utazasama cyangwa ngo wirinde virusi itera SIDA cyangwa indi ndwara yandurira mu mibonano mpuzabitsina ariko byongera umutekano wawe."
+        ],
+        "buttons": [
+            {
+                "ok": "29"
+            }
+        ]
+    },
+    "31": {
+        "text": [
+            "Yes! Boys are fertile when they first begin puberty. That's when their bodies begin to produce sperm. \n It is illegal for someone age 18 or over to have sexual relations with a person under age 18",
+            "Yego! Nibyo abahungu bashobora gutera inda igihe batangiye ubugimbi kuko niho imibiri yabo iba itangiye gukora  intanga-ngabo\nNibyo cyangwa sibyo Amategeko ntiyemera ko umuntu ufite cyangwa ufite imyaka 18 no kurenza yakora imibonano mpuzabitsina n'umuntu utarakwiza imyaka 18        "
+        ],
+        "buttons": [
+            {
+                "True": "33",
+                "False": "34"
+            },
+            {
+                "Nibyo": "33",
+                "sibyo": "34"
+            }
+        ]
+    },
+    "32": {
+        "text": [
+            " No, boys are fertile when they first begin puberty. That's when their bodies begin to produce sperm.\nIt is illegal for someone age 18 or over to have sexual relations with a person under age 18 ",
+            "Mu bisanzwe nibyo, abahungu binjira mu gihe cy'uburumbuke mu gihe  batangiye kuba ingimbi. Aha ni igihe imibiri yabo yatangiye gukora intangangabo.            \n      Nibyo cyangwa sibyo Amategeko ntiyemera ko umuntu ufite cyangwa ufite imyaka 18 no kurenza yakora imibonano mpuzabitsina n'umuntu utarakwiza imyaka 18     "
+        ],
+        "buttons": [
+            {
+                "True": "33",
+                "False": "34"
+            },
+            {
+                "Nibyo": "33",
+                "sibyo": "34"
+            }
+        ]
+    },
+    "33": {
+        "text": [
+            " Yea, that's true!",
+            "Yego nibyo rwose        "
+        ],
+        "buttons": [
+            {
+                "Next Question/Learn more": "35"
+            },
+            {
+                "Ikibazo gikurikira/Menya ibindi            ": "35"
+            }
+        ]
+    },
+    "34": {
+        "text": [
+            " No, it's true. It is illegal for someone age 18 or over to have sexual relations with someone under age 18.",
+            "Mubyukuri nibyo , Amategeko ntiyemerako umuntu ufite imyaka 18 no kurenza akora imibonano mpuzabitsina n'umuntu utaruzuza imyaka 18         "
+        ],
+        "buttons": [
+            {
+                "Next Question/Learn more": "35"
+            },
+            {
+                "Ikibazo gikurikira/Menya ibindi            ": "35"
+            }
+        ]
+    },
+    "35": {
+        "text": [
+            "It is legal for someone under age 18 to have an abortion",
+            "Nibyo cyangwa Sibyo? Biremewe mu mategeko ko umuntu utarageza ku myaka 18 yavanamo inda ku ubushake.         "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "36",
+                "👎🏾": "37"
+            },
+            {
+                "👍🏾": "36",
+                "👎🏾": "37"
+            }
+        ]
+    },
+    "36": {
+        "text": [
+            " Yes, it is legal if you have a medical certificate . Icyemezo cya muganga The child’s wishes prevail over the parents’ (Article 126, 2018 Penal Code )",
+            "Yego! Nibyo, byemewe n'amategeko ariko  iyo ufite icyemezo cya muganga kibikwemerera.        "
+        ],
+        "buttons": [
+            {
+                "Next Question/Learn more": "38"
+            },
+            {
+                "Ikibazo gikurikira/Menya ibindi            ": "38"
+            }
+        ]
+    },
+    "37": {
+        "text": [
+            "No, it is true. But the request for an abortion must be made to a medical doctor. The child’s wishes prevail over the parents’ (Article 126, 2018 Penal Code )",
+            "Mu by'ukuri ibyo nibyo ariko  kuvanamo inda ku ubushake bisabwa muganga mukuru kuko nibo baguha icyemezo cyo kuba wavanamo inda.Buri gihe icyifuzo cy'umwana nicyo kibanza kwitabwaho  kurusha icy'ababyeyi (Mu  ngingo y'126 Y'itegeko mpanabyaha mu Rwanda yemera  gukuramo inda kubushake iyo ufite icyemezo cya muganga iyo:     Umwana atarageza ku myaka 18      Iyo iyo nda yaturutse ku ugufatwa ku ngufu, guterwa inda n'umuntu mufitanye isano ya hafi cyangwa kurongorwa ku gahato cyangwa iyo  bigaragara ko iyo nda  ishobora guhitana ubuzima bw'uyitwite         "
+        ],
+        "buttons": [
+            {
+                "Next Question/Learn more": "38"
+            },
+            {
+                "Ikibazo gikurikira/Menya ibindi            ": "38"
+            }
+        ]
+    },
+    "38": {
+        "text": [
+            "It is difficult to know when a girl is or isn't fertile",
+            "Nibyo cyangwa sibyo? Nyuma y'uko utangiye kubona imihango, biraruhije kumenya igihe umukobwa ashobora gutwitiraho n'igihe atatwita.        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "39",
+                "👎🏾": "40"
+            },
+            {
+                "👍🏾": "39",
+                "👎🏾": "40"
+            }
+        ]
+    },
+    "39": {
+        "text": [
+            "True! Girls are fertile for up to 6 days during their menstrual cycle, but many factors influence when this occurs",
+            "Nibyo biraruhije kubimenya  neza. Abakobwa bashobora gutwita kugeza ku umunsi wa 6 w'ukwezi kwabo kw'imihango ariko hari ibintu byinshi bibitera . Kanda ibikurikira niba ushaka gukomeza!        "
+        ],
+        "buttons": [
+            {
+                "Media menu": "41"
+            },
+            {
+                "Ibitangazamakuru": "41"
+            }
+        ]
+    },
+    "40": {
+        "text": [
+            " Actually, it is difficult! Girls are fertile for up to 6 days during their menstrual cycle, but many factors influence when this occurs",
+            "Nibyo biraruhije kubimenya  neza. Abakobwa bashobora gutwita kugeza kumunsi wa 6 w.ukwezi kwabo kw'imihango ariko hari ibintu byinshi bibitera .        "
+        ],
+        "buttons": [
+            {
+                "Media menu": "41"
+            },
+            {
+                "Ibitangazamakuru": "41"
+            }
+        ]
+    },
+    "41": {
+        "text": [
+            "What would you like to do?",
+            "Niki kindi  wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Listen to a mini radio drama": "41.1",
+                "Take a quiz - Let's learn!": "41.2",
+                "SOS": "43",
+                "END": "END+3"
+            },
+            {
+                "umva ikinamico nto": "41.1",
+                "fata ikibazo - reka twige": "41.2",
+                "SOS": "43",
+                "iherezo": "END+3"
+            }
+        ]
+    },
+    "42": {
+        "text": [
+            "These dramas are only in Kinyarwanda",
+            "iyi kinamico iri muri kinyarwanda gusa"
+        ],
+        "buttons": [
+            {
+                "Great!": "44",
+                "I don't speak Kinyarwanda": "41"
+            },
+            {
+                "Ni byiza!        ": "44",
+                "simvuga kinyarwanda": "41"
+            }
+        ]
+    },
+    "43": {
+        "text": [
+            "Emergency Call: 112 \nChild Help Line Call: 116 \nGender Based Violence call: 3512\nGMO helpline for GBV: 5798 \nMake a GBV complaint online\n\n Would you like to continue chatting?",
+            "Ubutabazi bwihuse muri rusange: 112 \nIkibazo cyumwana: 116  \n Ihohoterwa rishingiye ku Gitsina Polisi: 3512 \nIsange one stop center : 3029\nurashaka gukomeza kuganira  "
+        ],
+        "buttons": [
+            {
+                "Yes!": "41",
+                "Not now, thanks": "END+3"
+            },
+            {
+                "yego": "41",
+                "Oya, urakoze n'aho ubutaha.            ": "END+3"
+            }
+        ]
+    },
+    "44": {
+        "text": [
+            "What topic would you like to learn about?",
+            "ni izihe ngingo wifuza kwiga"
+        ],
+        "buttons": [
+            {
+                "Let's Talk!": "46",
+                "My Body": "81",
+                "My Relationships": "164"
+            },
+            {
+                "reka tuganire": "46",
+                "umubiri wanjye": "81",
+                "umubano wanjye": "164"
+            }
+        ]
+    },
+    "45": {
+        "text": [
+            "What topic would you like to learn about?",
+            "ni izihe ngingo wifuza kwiga"
+        ],
+        "buttons": [
+            {
+                "Let's Talk!": "225",
+                "My Body": "250",
+                "My Relationships": "303"
+            },
+            {
+                "reka tuganire": "225",
+                "umubiri wanjye": "250",
+                "umubano wanjye": "303"
+            }
+        ]
+    },
+    "46": {
+        "text": [
+            "I have some mini radio dramas for you to listen to!",
+            "Mukanya rero ngufitiye udukinamico dushimishije cyane, Niba ushaka kutwumva kanda  Ibikurikira kugirango ukomeze              "
+        ],
+        "buttons": [
+            {
+                " Great! / Let's go!": "47"
+            },
+            {
+                "reka": "47"
+            }
+        ]
+    },
+    "47": {
+        "text": [
+            "In each drama, parents learn how to talk with their children about love, sex and SRH\n What would you like to listen to?",
+            "Insanganyamatsiko y'izi kinamico  ni : Reka Tuganire",
+            " Muri buri gakinamico ababyeyi  barigiramo kuganira n'abana babo kubijyanye n'inshuti ndetse n'Ubuzima bw'imyororokere. \nniki wifuza kumva            "
+        ],
+        "buttons": [
+            {
+                "Episode 1: How do you talk to your son when you're upset with his behaviour?": "48",
+                "Episode 2: Mum and daughter learn they can speak more openly about SRH issues": "60",
+                "Episode 3: How do you talk to your daughter when you worry about her choice of boyfriend?": "70"
+            },
+            {
+                "igice cya 1: Nigute ushobora kuvugana numuhungu wawe mugihe ubabajwe nimyitwarire ye?": "48",
+                "Igice cya 2: Mama n'umukobwa biga ko bashobora kuvuga ku mugaragaro ibibazo bya SRH.": "60",
+                "Igice cya 3: Nigute uvugana numukobwa wawe mugihe uhangayikishijwe no guhitamo umukunzi?": "70"
+            }
+        ]
+    },
+    "48": {
+        "text": [
+            "Karangwa and Kayitesi learn how to talk to their son, David, about his friendships in a respectful and non-judgmental way\n",
+            "Mu gice cya 1 cya  Reka tuganire    Karangwa na Kayitesi bariga uburyo baganiriza umuhungu wabo Davidi n'inshuti ze mu buryo bwiza burimo kubahana.        "
+        ],
+        "buttons": [
+            {
+                "Next": "49"
+            },
+            {
+                "Ibikurikira            ": "49"
+            }
+        ]
+    },
+    "49": {
+        "text": [
+            "What did you think of that drama",
+            "utekereza iki ku ikinamico"
+        ],
+        "buttons": [
+            {
+                "⭐": "50",
+                "⭐️⭐": "50",
+                "⭐️⭐️⭐": "50",
+                "⭐️⭐️⭐️⭐": "50",
+                "⭐️⭐️⭐️⭐️⭐": "50"
+            },
+            {
+                "⭐": "50",
+                "⭐️⭐": "50",
+                "⭐️⭐️⭐": "50",
+                "⭐️⭐️⭐️⭐": "50",
+                "⭐️⭐️⭐️⭐️⭐": "50"
+            }
+        ]
+    },
+    "50": {
+        "text": [
+            "Karangwa really seemed to get some new ideas about how to talk to David!\nDid you learn anything that will help you talk with your child about their SRH or relationships?",
+            "Biragaragara ko Karangwa yungutse ibitekerezo bishya kuburyo bwo kuganiriza David!  Haba hari icyo wigiye hano cyagufasha ku buryo bwo kuganiriza umwana wawe ku bijyanye n'ubuzima bw'imyororokere ndetse n'Inshuti?         "
+        ],
+        "buttons": [
+            {
+                "Yes": "51",
+                "Not really": "53",
+                "I'll have to think about that": "53"
+            },
+            {
+                "yego": "51",
+                "Oya si cyane            ": "53",
+                "Ndagenda mbitekerezeho            ": "53"
+            }
+        ]
+    },
+    "51": {
+        "text": [
+            "What did you learn? ",
+            "Niki wigiyemo? ANDIKA IGISUBIZO HANO MUNSI        "
+        ],
+        "skip": "52"
+    },
+    "52": {
+        "text": [
+            "That's great!",
+            "nibyiza"
+        ],
+        "buttons": [
+            {
+                "Next": "53"
+            },
+            {
+                "ibitekerezo": "53"
+            }
+        ]
+    },
+    "53": {
+        "text": [
+            "If you are worried about your child's friends, what approach would be most likely to help you have a positive, respectful and open relationship with him/her?",
+            "Niba uhangayikishijwe n'inshuti z'umwana wawe, ni ubuhe buryo bushobora kugufasha kugirana umubano mwiza, wubaha kandi ufunguye? "
+        ],
+        "buttons": [
+            {
+                "Click here to view questions": "53.1"
+            },
+            {
+                "Kanda hano urebe ibibazo": "53.1"
+            }
+        ]
+    },
+    "54": {
+        "text": [
+            "The best approach is to... Ask questions and listen. Welcome their friends in your home. Ask if you can share advice When your child knows you are her/his friend, they can be open with you!",
+            "Inzira nziza ni iyo ... Baza ibibazo wumve. Ikaze inshuti zabo murugo rwawe. Baza niba ushobora gusangira inama Mugihe umwana wawe azi ko uri inshuti ye, barashobora gufungura nawe!"
+        ],
+        "buttons": [
+            {
+                "Next": "55"
+            },
+            {
+                "ibitekerezo": "55"
+            }
+        ]
+    },
+    "55": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "56",
+                "Not now": "59"
+            },
+            {
+                "yego": "56",
+                "Oya ubutaha": "59"
+            }
+        ]
+    },
+    "56": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "56.01",
+                "Video": "56.02",
+                "Text": "56.1"
+            },
+            {
+                "Amajwi": "56.01",
+                "video": "56.02",
+                "Inyandiko": "56.1"
+            }
+        ]
+    },
+    "57": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "58",
+                "no ": "59"
+            },
+            {
+                "yego": "58",
+                "Oya": "59"
+            }
+        ]
+    },
+    "58": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho         "
+        ],
+        "skip": "59"
+    },
+    "59": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Listen to another mini drama": "60",
+                "Go to Main menu": "41",
+                "Talk again later ": "59.1"
+            },
+            {
+                "umva indi kinamico": "60",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha        ": "59.1"
+            }
+        ]
+    },
+    "60": {
+        "text": [
+            "Kamariza and her daughter improve their relationship so they can speak more openly about SRH issues",
+            "Igice cya 2 :Reka Tuganire Kamariza n'umukobwa we  barubaka ubushuti bwabo kugirango bazajye baganira  ku ibibazo by'ubuzima bw'imyororokere bisanzuye.        "
+        ],
+        "buttons": [
+            {
+                "Next": "61"
+            },
+            {
+                "ibitekerezo": "61"
+            }
+        ]
+    },
+    "61": {
+        "text": [
+            "What did you think of that drama",
+            "utekereza iki ku ikinamico"
+        ],
+        "buttons": [
+            {
+                "⭐": "62",
+                "⭐️⭐": "62",
+                "⭐️⭐️⭐": "62",
+                "⭐️⭐️⭐️⭐": "62",
+                "⭐️⭐️⭐️⭐️⭐": "62"
+            },
+            {
+                "⭐": "62",
+                "⭐️⭐": "62",
+                "⭐️⭐️⭐": "62",
+                "⭐️⭐️⭐️⭐": "62",
+                "⭐️⭐️⭐️⭐️⭐": "62"
+            }
+        ]
+    },
+    "62": {
+        "text": [
+            "It's difficult to talk to daughters about SRH, but if we want them to be able to protect themselves, they need our support and advice!",
+            "Bikomerera urubyiruko kuganira n'ababyeyi babo ku buzima bw'imyororokere , kandi mu byukuri bakeneye Inama n'ubufasha bw'ababyeyi kugirango bashobore kwirinda!        "
+        ],
+        "buttons": [
+            {
+                "That's true!/It is hard!": "63"
+            },
+            {
+                "Ibyo nukuri!/Nibyo koko, biragoye.            ": "63"
+            }
+        ]
+    },
+    "63": {
+        "text": [
+            "What topics do you think your child/adolescent needs advice on from you?",
+            "Ese ni mu yihe nsanganyamatsiko  utekerezako abana bakeneye inama z'ababyeyi babo? ANDIKA IGISUBIZO HANO MUNSI        "
+        ],
+        "skip": "64"
+    },
+    "64": {
+        "text": [
+            "Children need our love and support and advice they can trust",
+            "Abana bakeneye urukundo rwacu, inkunga n'inama bashobora kwizera"
+        ],
+        "buttons": [
+            {
+                "They do!/ Yes!": "65"
+            },
+            {
+                "Barabikora! / Yego!": "65"
+            }
+        ]
+    },
+    "65": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "66",
+                "Not now": "69"
+            },
+            {
+                "yego": "66",
+                " Oya ubutaha            ": "69"
+            }
+        ]
+    },
+    "66": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "66.01",
+                "Video": "66.02",
+                "Text": "66.1"
+            },
+            {
+                "Amajwi": "66.01",
+                "video": "66.02",
+                "Inyandiko": "66.1"
+            }
+        ]
+    },
+    "67": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "68",
+                "no ": "69"
+            },
+            {
+                "yego": "68",
+                "Oya": "69"
+            }
+        ]
+    },
+    "68": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "69"
+    },
+    "69": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Listen to another mini drama": "70",
+                "Go to Main menu": "41",
+                "Talk again later ": "69.1"
+            },
+            {
+                "umva indi kinamico": "70",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha        ": "69.1"
+            }
+        ]
+    },
+    "70": {
+        "text": [
+            "Kamariza and Murenzi advise their daughter, Cynthia, on how to choose a good boyfriend",
+            "Igice cya 3 cya Reka Tuganire : Kamariza na Murenzi baragira inama umukobwa wabo Cynthia uburyo yahitamo inshuti y'Umuhungu."
+        ],
+        "buttons": [
+            {
+                "Next": "71"
+            },
+            {
+                "ibitekerezo": "71"
+            }
+        ]
+    },
+    "71": {
+        "text": [
+            "What did you think of that drama",
+            "utekereza iki ku ikinamico"
+        ],
+        "buttons": [
+            {
+                "⭐": "72",
+                "⭐️⭐": "72",
+                "⭐️⭐️⭐": "72",
+                "⭐️⭐️⭐️⭐": "72",
+                "⭐️⭐️⭐️⭐️⭐": "72"
+            },
+            {
+                "⭐": "72",
+                "⭐️⭐": "72",
+                "⭐️⭐️⭐": "72",
+                "⭐️⭐️⭐️⭐": "72",
+                "⭐️⭐️⭐️⭐️⭐": "72"
+            }
+        ]
+    },
+    "72": {
+        "text": [
+            "When you are upset with your child/adolescent, what can you do to show you care about him/her?",
+            "Iyo ubabajwe n'umwana wawe / ingimbi, niki wakora kugirango werekane ko umwitayeho?"
+        ],
+        "skip": "73"
+    },
+    "73": {
+        "text": [
+            "You can... \nExpress genuine concern Listen. Give reliable advice Express appreciation for what they are doing right .\nParents and children who have a good relationship can overcome many challenges!\n\nNow that we've been chatting for a while, I'd like to ask you some questions about SRH ",
+            "Urashobora ... \nGaragaza impungenge zukuri Umva. Tanga inama zizewe Express ushimire kubyo bakora neza. \nAbabyeyi nabana bafitanye umubano mwiza barashobora gutsinda ibibazo byinshi! \n \nUbu ko twaganiriye a mugihe, ndashaka kukubaza ibibazo bimwe na bimwe kuri SRH "
+        ],
+        "buttons": [
+            {
+                "• No problem!": "74",
+                "I'd rather not": "41"
+            },
+            {
+                "• Nta kibazo!": "74",
+                "Ntabwo nahitamo": "41"
+            }
+        ]
+    },
+    "74": {
+        "text": [
+            "How confident do you feel talking to your adolescent child about SRH?",
+            "Wumva wiyizeye bingana iki iyo urimo kuganiriza abana bawe b'ingimbi  n'abangavu? Ihe amanota ukurikije iki kigero : 5= Numva niyizeye neza, 1= Numva ntiyizeye nagato        "
+        ],
+        "buttons": [
+            {
+                "⭐": "75",
+                "⭐️⭐": "75",
+                "⭐️⭐️⭐": "75",
+                "⭐️⭐️⭐️⭐": "75",
+                "⭐️⭐️⭐️⭐️⭐": "75"
+            },
+            {
+                "⭐": "75",
+                "⭐️⭐": "75",
+                "⭐️⭐️⭐": "75",
+                "⭐️⭐️⭐️⭐": "75",
+                "⭐️⭐️⭐️⭐️⭐": "75"
+            }
+        ]
+    },
+    "75": {
+        "text": [
+            "How confident do you feel talking to your adolescent child about their romantic relationships?",
+            "Wumva wiyizeye bingana iki iyo urimo kuganiriza abana bawe b'ingimbi n'abangavu ku bijyanye n'urukundo ? Ihe amanota ukurikije iki kigero : 5= Numva niyizeye neza, 1= Numva ntiyizeye nagato        "
+        ],
+        "buttons": [
+            {
+                "⭐": "76",
+                "⭐️⭐": "76",
+                "⭐️⭐️⭐": "76",
+                "⭐️⭐️⭐️⭐": "76",
+                "⭐️⭐️⭐️⭐️⭐": "76"
+            },
+            {
+                "⭐": "76",
+                "⭐️⭐": "76",
+                "⭐️⭐️⭐": "76",
+                "⭐️⭐️⭐️⭐": "76",
+                "⭐️⭐️⭐️⭐️⭐": "76"
+            }
+        ]
+    },
+    "76": {
+        "text": [
+            "Thanks for sharing what you know with me! \nDo you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Urakoze kudusangiza ubunararibonye bwawe!\nEse ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "77",
+                "Not now": "80"
+            },
+            {
+                "yego": "77",
+                "Oya ubutaha": "80"
+            }
+        ]
+    },
+    "77": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "77.01",
+                "Video": "77.02",
+                "Text": "77.1"
+            },
+            {
+                "Amajwi": "77.01",
+                "video": "77.02",
+                "Inyandiko": "77.1"
+            }
+        ]
+    },
+    "78": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "79",
+                "no ": "80"
+            },
+            {
+                "yego": "79",
+                "Oya": "80"
+            }
+        ]
+    },
+    "79": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "80"
+    },
+    "80": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Listen to another mini drama": "44",
+                "Go to Main menu": "41",
+                "Talk again later ": "80.1"
+            },
+            {
+                "umva indi kinamico": "44",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha": "80.1"
+            }
+        ]
+    },
+    "81": {
+        "text": [
+            "I have some mini radio dramas for you!",
+            "Mukanya rero ngufitiye udukinamico dushimishije cyane, Niba ushaka kutwumva kanda Ibikurikira kugirango ukomeze              "
+        ],
+        "buttons": [
+            {
+                " Great! / Let's go!": "82"
+            },
+            {
+                "bikomeye / reka": "82"
+            }
+        ]
+    },
+    "82": {
+        "text": [
+            "In each drama, young people learn how to learn how to protect their sexual and reproductive health \n Which episode do you want to listen to? \n[scroll through image selection]",
+            "Tuguhaye ikaze ku Nsanganyamatsiko   Umubiri wanjye. Muri buri kinamico, urubyiruko rwiga kurinda  ubuzima bwarwo mpuzabitsina n' imyororokere.\n    Ni ibihe bice ushaka kumva?        "
+        ],
+        "buttons": [
+            {
+                "Episode 1: What should Keza do if Ganza tries to touch her up? ": "83",
+                "Episode 2: Help! My body is changing! ": "95",
+                "Episode 3: What do you do when you find out your girlfriend is pregnant?!": "105"
+            },
+            {
+                "Igice cya 1: Keza yagombye gukora iki niba Ganza agerageje kumukoraho?": "83",
+                "Igice cya 2: Gufasha! Umubiri wanjye urahinduka!": "95",
+                "Igice cya 3: Ukora iki iyo usanze umukunzi wawe atwite?!": "105"
+            }
+        ]
+    },
+    "83": {
+        "text": [
+            "What should Keza do if Ganza tries to touch her up? ",
+            "Igice cya 1  Umubiri wanjye  Ni iki Keza agomba gukora mu gihe  Ganza agerageje kumukorakora?        "
+        ],
+        "buttons": [
+            {
+                "Next": "84"
+            },
+            {
+                "ibitekerezo": "84"
+            }
+        ]
+    },
+    "84": {
+        "text": [
+            "What did you think of that drama?",
+            "utekereza iki ku ikinamico"
+        ],
+        "buttons": [
+            {
+                "⭐": "85",
+                "⭐️⭐": "85",
+                "⭐️⭐️⭐": "85",
+                "⭐️⭐️⭐️⭐": "85",
+                "⭐️⭐️⭐️⭐️⭐": "85"
+            },
+            {
+                "⭐": "85",
+                "⭐️⭐": "85",
+                "⭐️⭐️⭐": "85",
+                "⭐️⭐️⭐️⭐": "85",
+                "⭐️⭐️⭐️⭐️⭐": "85"
+            }
+        ]
+    },
+    "85": {
+        "text": [
+            "Wow! She really told him!",
+            "Wow! Yaramubwiye rwose!"
+        ],
+        "buttons": [
+            {
+                "She did!": "86",
+                "What's the big deal? ": "87"
+            },
+            {
+                "Yakoze!": "86",
+                "Ikibazo gikomeye ni ikihe?": "87"
+            }
+        ]
+    },
+    "86": {
+        "text": [
+            " Who is more 'modern' now?",
+            "None ubwo ninde Musirimu?"
+        ],
+        "buttons": [
+            {
+                " Keza": "87",
+                " Ganza": "87"
+            },
+            {
+                " Keza": "87",
+                " Ganza": "87"
+            }
+        ]
+    },
+    "87": {
+        "text": [
+            "We all have 3 private parts\nBreasts \nGenital area\nNo one should touch them without your invitation!/ Uruhushya or Uburenganzira",
+            "Twese buri muntu agira imyanya y'ibanga urugero Amabere, umunwa ndetse n'imyanya ndangagitsina ku bw'ibyo nta muntu wemerewe kuyikorakora utabimwemereye!        "
+        ],
+        "buttons": [
+            {
+                "Next": "88"
+            },
+            {
+                "ibitekerezo": "88"
+            }
+        ]
+    },
+    "88": {
+        "text": [
+            "If someone tries to touch you and you don't want them to, you can say\nStop \nDon't touch me \nI'm not into this \nMaybe later\nOr you can try to move away or leave\nWhat else could you do? ",
+            "Niba umuntu ageregeje kugukorakora ku myanya yawe y'ibanga utabishaka ugomba kumubwira ngo  Ndabyanze ntunkoreho  ugomba kumubwira ko utabishaka  cyangwa se ukamuhunga! \nNi iki kindi wakora? Andika hano hasi        "
+        ],
+        "skip": "89"
+    },
+    "89": {
+        "text": [
+            "If they continue, it's not your fault! \nTell someone you trust and ask for support ",
+            "Niba ashaka gukomeza kugukorakora yanze kukumva ntabwo ari amakosa yawe, bibwire undi muntu wizeye usabe ubufasha        "
+        ],
+        "buttons": [
+            {
+                "Good to know": "90",
+                "Thanks for the advice": "90"
+            },
+            {
+                "Ni byiza ku bimenya": "90",
+                "Urakoze": "90"
+            }
+        ]
+    },
+    "90": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "91",
+                "Not now": "94"
+            },
+            {
+                "yego": "91",
+                "Oya ubutaha": "94"
+            }
+        ]
+    },
+    "91": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo? "
+        ],
+        "buttons": [
+            {
+                "Audio": "91.01",
+                "Video": "91.02",
+                "Text": "91.1"
+            },
+            {
+                "Amajwi": "91.01",
+                "video": "91.02",
+                "Inyandiko": "91.1"
+            }
+        ]
+    },
+    "92": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "93",
+                "no ": "94"
+            },
+            {
+                "yego": "93",
+                "Oya": "94"
+            }
+        ]
+    },
+    "93": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "94"
+    },
+    "94": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?"
+        ],
+        "buttons": [
+            {
+                "Listen to another mini drama": "95",
+                "Go to Main menu": "41",
+                "Talk again later ": "94.1"
+            },
+            {
+                "umva indi kinamico": "95",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha": "94.1"
+            }
+        ]
+    },
+    "95": {
+        "text": [
+            "Help! My body is changing!",
+            "Igice cya 2  Mumfashe Umubiri wanjye uri guhindagurika!         "
+        ],
+        "buttons": [
+            {
+                "Next": "96"
+            },
+            {
+                "ibitekerezo": "96"
+            }
+        ]
+    },
+    "96": {
+        "text": [
+            "What did you think of that drama?",
+            "utekereza iki ku ikinamico"
+        ],
+        "buttons": [
+            {
+                "⭐": "97",
+                "⭐️⭐": "97",
+                "⭐️⭐️⭐": "97",
+                "⭐️⭐️⭐️⭐": "97",
+                "⭐️⭐️⭐️⭐️⭐": "97"
+            },
+            {
+                "⭐": "97",
+                "⭐️⭐": "97",
+                "⭐️⭐️⭐": "97",
+                "⭐️⭐️⭐️⭐": "97",
+                "⭐️⭐️⭐️⭐️⭐": "97"
+            }
+        ]
+    },
+    "97": {
+        "text": [
+            "When puberty starts, our bodies really change!\nIt can feel really awkward but it's NORMAL  \nAlso, our feelings can go up and down like crazy! \nAll in one day! \nIt's good to talk to someone older about all this",
+            "Iyo tugeze mu gihe cy'ubugimbi imibiri yacu irahinduka cyane.  Ushobora kumva bidasanzwe ukikanga, ariko ubundi NI IBISANZWE.\nNanone ibyiyumviro byacu bishobora guhindagurika ku buryo budasanzwe. Icyo gihe ni byiza kubiganiriza umuntu mukuru.        "
+        ],
+        "buttons": [
+            {
+                "Next": "98"
+            },
+            {
+                "ibitekerezo": "98"
+            }
+        ]
+    },
+    "98": {
+        "text": [
+            "Who can you go to for information or advice?",
+            "Ese icyo gihe ninde wasanga ngo agufashe, akugire inama? Andika Igisubizo hano munsi.        "
+        ],
+        "skip": "99"
+    },
+    "99": {
+        "text": [
+            "If someone was harassing you, who would you ask for help?",
+            "Niba umuntu agerageje kuguhohotera ni hehe washakira ubufasha? Andika munsi .        "
+        ],
+        "skip": "100"
+    },
+    "100": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "101",
+                "Not now": "104"
+            },
+            {
+                "yego": "101",
+                "Oya ubutah": "104"
+            }
+        ]
+    },
+    "101": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "101.01",
+                "Video": "101.02",
+                "Text": "101.1"
+            },
+            {
+                "Amajwi            ": "101.01",
+                "video            ": "101.02",
+                "Inyandiko            ": "101.1"
+            }
+        ]
+    },
+    "102": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "103",
+                "no ": "104"
+            },
+            {
+                "yego": "103",
+                "Oya": "104"
+            }
+        ]
+    },
+    "103": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "104"
+    },
+    "104": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Listen to another mini drama": "105",
+                "Go to Main menu": "41",
+                "Talk again later ": "104.1"
+            },
+            {
+                "umva indi kinamico": "105",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha        ": "104.1"
+            }
+        ]
+    },
+    "105": {
+        "text": [
+            "What do you do when you find out your girlfriend is pregnant?!",
+            "Igice cya 3  Umubiri wanjye Ni iki wakorera umukobwa w'inshuti yawe aramutse atwite mutabiteganyaga?         "
+        ],
+        "buttons": [
+            {
+                "Next": "106"
+            },
+            {
+                "ibitekerezo": "106"
+            }
+        ]
+    },
+    "106": {
+        "text": [
+            "What did you think of that drama?",
+            "utekereza iki ku ikinamico"
+        ],
+        "buttons": [
+            {
+                "⭐": "107",
+                "⭐️⭐": "107",
+                "⭐️⭐️⭐": "107",
+                "⭐️⭐️⭐️⭐": "107",
+                "⭐️⭐️⭐️⭐️⭐": "107"
+            },
+            {
+                "⭐": "107",
+                "⭐️⭐": "107",
+                "⭐️⭐️⭐": "107",
+                "⭐️⭐️⭐️⭐": "107",
+                "⭐️⭐️⭐️⭐️⭐": "107"
+            }
+        ]
+    },
+    "107": {
+        "text": [
+            "Cynthia was right!\nBijoux needs economic support, but she also needs Ganza to be a friend\nHe was freaking out!\nBut being a man means taking responsibility for your actions and caring for others, physically and emotionally",
+            "Cynthia afite ukuri! Bijoux icyo akeneye ni uko Ganza amuba hafi atari kumutererana mu bihe bibi!\nMu Rwanda ikigaragaza ko umuntu ari Umugabo ni uko aba yubahiriza inshingano ze mubyo akora  kandi akita no kubandi!        "
+        ],
+        "buttons": [
+            {
+                "Next": "108"
+            },
+            {
+                "ibitekerezo": "108"
+            }
+        ]
+    },
+    "108": {
+        "text": [
+            "What are some things Ganza and Bijoux could have done to avoid getting pregnant?\nHave sex standing up",
+            "Mbese ni iki Bijoux na Ganza bagombye kuba barakoze mbere ngo birinde gutwita inda itateganijwe?\nUkora imibonano mpuzabitsina uhagaze        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "109",
+                "👎🏾": "110"
+            },
+            {
+                " 👍🏾": "109",
+                "👎🏾": "110"
+            }
+        ]
+    },
+    "109": {
+        "text": [
+            "No, that doesn't prevent pregnancy",
+            "Oya, ibyo ntibibuza gutwita"
+        ],
+        "buttons": [
+            {
+                "Next": "110"
+            },
+            {
+                "ibitekerezo": "110"
+            }
+        ]
+    },
+    "110": {
+        "text": [
+            "Use contraception",
+            "Gukoresha uburyo bwo kwirinda kubyara        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "111",
+                "👎🏾": "111"
+            },
+            {
+                " 👍🏾": "111",
+                "👎🏾": "111"
+            }
+        ]
+    },
+    "111": {
+        "text": [
+            "Stop short of intercourse",
+            "Reka guhagarika imibonano"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "113",
+                "👎🏾": "112"
+            },
+            {
+                "👍🏾": "113",
+                "👎🏾": "112"
+            }
+        ]
+    },
+    "112": {
+        "text": [
+            " Yea, that can be hard but mutual masturbation is an option ",
+            " Yego, ibyo birashobora kugorana ariko kwikinisha ni amahitamo"
+        ],
+        "buttons": [
+            {
+                "Next": "113"
+            },
+            {
+                "ibitekerezo": "113"
+            }
+        ]
+    },
+    "113": {
+        "text": [
+            "Use a condom ",
+            "Koresha agakingirizo"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "114",
+                "👎🏾": "114"
+            },
+            {
+                "👍🏾": "114",
+                "👎🏾": "114"
+            }
+        ]
+    },
+    "114": {
+        "text": [
+            "Don't have sex     ",
+            "Ntukaryamane"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "116",
+                "👎🏾": "115"
+            },
+            {
+                "👍🏾": "116",
+                "👎🏾": "115"
+            }
+        ]
+    },
+    "115": {
+        "text": [
+            " Yea, that can be hard but it's effective!",
+            "Yego, nibyiza cyane ariko nabyo bikunze kugorana ababigeraho si benshi ariko rwose bigira umumaro!        "
+        ],
+        "buttons": [
+            {
+                "Next": "116"
+            },
+            {
+                "ibitekerezo": "116"
+            }
+        ]
+    },
+    "116": {
+        "text": [
+            "If Bijoux doesn't have anyone to support her and she decides to have an illegal abortion bitemewe namategeko (because she can't get a medical certificate), what are the risks?\nChoose all that apply",
+            "Bijoux aramutse adafite umuntu numwe wo kumufasha agahitamo  kuvanamo inda bidakurikije amategeko kuko adashobora kubona icyemezo cya muganga ese nibihe byago ashobora guhura nabyo? Hitamo igisubizo nyacyo         "
+        ],
+        "buttons": [
+            {
+                "No risks": "117",
+                "Getting arrested and charged": "117",
+                "Mild to serious health problems": "117",
+                "She might die": "117",
+                "Family might send her away": "117"
+            },
+            {
+                "Nta byago            ": "117",
+                "Gukurikiranwa mu nkiko no guhamwa n'icyaha            ": "117",
+                "Ibibazo by'uburwayi            ": "117",
+                "Agomba gupfa            ": "117",
+                "Umuryango ugomba kumwohereza            ": "117"
+            }
+        ]
+    },
+    "117": {
+        "text": [
+            "It is risky for Bijoux to have an illegal abortion! \nGirls who are pregnant really need their family and friends to support them!",
+            "Bijoux ashobora kugira ibyago byinshi aramutse  avanyemo inda mu buryo butemewe n'amategeko. Abakobwa batwite inda zidateganijwe bakenera kwitabwaho by'umwihariko n'abo mu muryango wabo ndetse n'inshuti zabo        "
+        ],
+        "buttons": [
+            {
+                "Next": "118"
+            },
+            {
+                "ibitekerezo": "118"
+            }
+        ]
+    },
+    "118": {
+        "text": [
+            "Now that we've been chatting for a while, I'd like to ask you some questions about SRH",
+            "Noneho ko tumaze igihe tuganira, ndashaka kukubaza ibibazo bimwe na bimwe kuri SRH"
+        ],
+        "buttons": [
+            {
+                "No problem!": "119",
+                "I'd rather not ": "41"
+            },
+            {
+                "Nta kibazo!": "119",
+                "Nahitamo kutabikora": "41"
+            }
+        ]
+    },
+    "119": {
+        "text": [
+            "Do you know where to get reliable information on...Birth control? ",
+            "Waba uzi ahantu hizewe wakura amakuru ku ubuzima bw'imyorokere?\nKuringaniza urubyaro     "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "120",
+                "👎🏾": "120"
+            },
+            {
+                " 👍🏾": "120",
+                "👎🏾": "120"
+            }
+        ]
+    },
+    "120": {
+        "text": [
+            "Family planning?",
+            "Kuboneza urubyaro?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "121",
+                "👎🏾": "121"
+            },
+            {
+                "👍🏾": "121",
+                "👎🏾": "121"
+            }
+        ]
+    },
+    "121": {
+        "text": [
+            "Menstruation? ",
+            "Kujya mu mihango ?         "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "122",
+                "👎🏾": "122"
+            },
+            {
+                "👍🏾": "122",
+                "👎🏾": "122"
+            }
+        ]
+    },
+    "122": {
+        "text": [
+            "Puberty? ",
+            "Ubugimbi n'ubwangavu?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "123",
+                "👎🏾": "123"
+            },
+            {
+                "👍🏾": "123",
+                "👎🏾": "123"
+            }
+        ]
+    },
+    "123": {
+        "text": [
+            "Great! \n If needed, can you access Condoms? ",
+            "bikomeye\nEse iyo ubikeneye  ubasha kubona ibi bikurikira?Udukingirizo?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "124",
+                "👎🏾": "124"
+            },
+            {
+                "👍🏾": "124",
+                "👎🏾": "124"
+            }
+        ]
+    },
+    "124": {
+        "text": [
+            "Birth control?",
+            "Kuringaniza urubyaro?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "125",
+                "👎🏾": "125"
+            },
+            {
+                "👍🏾": "125",
+                "👎🏾": "125"
+            }
+        ]
+    },
+    "125": {
+        "text": [
+            "SRH services?",
+            "Serivisi z'Ubuzima bw'imyororokere?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "126",
+                "👎🏾": "126"
+            },
+            {
+                "👍🏾": "126",
+                "👎🏾": "126"
+            }
+        ]
+    },
+    "126": {
+        "text": [
+            "-Reliable SRH advice?",
+            "Inama zizewe ku buzima bw'Imyorokere?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "127",
+                "👎🏾": "127"
+            },
+            {
+                "👍🏾": "127",
+                "👎🏾": "127"
+            }
+        ]
+    },
+    "127": {
+        "text": [
+            "Good to know!\n Which statement is MOST accurate?\n",
+            "Biranshimishije kubimenya!\n Ni ayahe magambo ari menshi?       "
+        ],
+        "buttons": [
+            {
+                "Using a condom decreases your chances of becoming pregnant or getting HIV and other sexually transmitted infections and diseases ": "128",
+                "Using a condom guarantees you will not get pregnant or get HIV or another sexually transmitted infection or disease": "129"
+            },
+            {
+                "Gukoresha agakingirizo bigabanya amahirwe yo gutwita cyangwa kwandura virusi itera SIDA n'izindi ndwara zandurira mu mibonano mpuzabitsina": "128",
+                "Gukoresha agakingirizo byemeza ko utazasama cyangwa ngo wandure virusi itera SIDA cyangwa indi ndwara yandurira mu mibonano mpuzabitsina": "129"
+            }
+        ]
+    },
+    "128": {
+        "text": [
+            "Right\nTrue 👍🏽 or false 👎🏾?\n Boys are fertile before they have their first wet dream  ",
+            "Nibyo cyangwa sibyo abahungu bashobora gutera inda mbere yo gutangira kwiroteraho?(Kwiroteraho ni igihe umuhungu asohoye kandi asinziriye)        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "130",
+                "👎🏾": "131"
+            },
+            {
+                "👍🏾": "130",
+                "👎🏾": "131"
+            }
+        ]
+    },
+    "129": {
+        "text": [
+            " No, using a condom does not guarantee you won't get pregnant or get HIV or another sexually transmitted infection or disease but it does increase your safety ",
+            " Oya, gukoresha agakingirizo ntibisobanura ko utazasama cyangwa ngo wandure virusi itera SIDA cyangwa indi ndwara yandurira mu mibonano mpuzabitsina ariko byongera umutekano wawe"
+        ],
+        "buttons": [
+            {
+                "ok": "128"
+            },
+            {
+                "ok": "128"
+            }
+        ]
+    },
+    "130": {
+        "text": [
+            "Yes! Boys are fertile when they first begin puberty. That's when their bodies begin to produce sperm. ",
+            "Yego! Nibyo abahungu bashobora gutera inda igihe batangiye ubugimbi kuko niho imibiri yabo iba itangiye gukora  intanga-ngabo        "
+        ],
+        "buttons": [
+            {
+                "Next": "132"
+            },
+            {
+                "ibitekerezo": "132"
+            }
+        ]
+    },
+    "131": {
+        "text": [
+            " No, boys are fertile when they first begin puberty. That's when their bodies begin to produces perm.",
+            "Mu bisanzwe nibyo, abahungu binjira mu gihe cy'uburumbuke mu gihe  batangiye kuba ingimbi. Aha ni igihe imibiri yabo yatangiye gukora intangangabo.        "
+        ],
+        "buttons": [
+            {
+                "Next": "132"
+            },
+            {
+                "ibitekerezo": "132"
+            }
+        ]
+    },
+    "132": {
+        "text": [
+            "It is legal for someone under age 18 to have an abortion",
+            "Nibyo cyangwa Sibyo? Biremewe mu mategeko ko umuntu utarageza ku myaka 18 yavanamo inda ku ubushake.         "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "133",
+                "👎🏾": "134"
+            },
+            {
+                " 👍🏾": "133",
+                "👎🏾": "134"
+            }
+        ]
+    },
+    "133": {
+        "text": [
+            " Yes, it is legal if you have a medical certificate Icyemezo cya Muganga . The child’s wishes prevail over the parents’ (Article 126, 2018 Penal Code )",
+            "Yego! Nibyo, byemewe n'amategeko ariko  iyo ufite icyemezo cya muganga kibikwemerera.Buri gihe icyifuzo cy'umwana nicyo kibanza kwitabwaho kurusha icy'ababyeyi (Mu  ngingo y'126 Y'itegeko mpanabyaha mu Rwanda yemera  gukuramo inda ku ubushake iyo ufite icyemezo cya muganga iyo:        Umwana atarageza ku myaka 18     Iyo iyo Inda yaturutse kugufatwa ku ngufu, hagati y'abantu  bafitanye isano ya hafi,  cyangwa ihohotera. Iyo  bigaragara ko iyo nda ishobora guhitana ubuzima bw'umubyeyi uyitwite.        "
+        ],
+        "buttons": [
+            {
+                "Next": "135"
+            },
+            {
+                "ibitekerezo": "135"
+            }
+        ]
+    },
+    "134": {
+        "text": [
+            "No, it is true. But the request for an abortion must be made to a medical doctor. The child’s wishes prevail over the parents’ (Article 126, 2018 Penal Code)",
+            "Oya, ni ukuri. Ariko icyifuzo cyo gukuramo inda kigomba gukorwa kwa muganga. Ibyifuzo by'umwana biruta ababyeyi '(Ingingo ya 126, 2018 y'amategeko ahana)"
+        ],
+        "buttons": [
+            {
+                "Next": "135"
+            },
+            {
+                "ibitekerezo": "134"
+            }
+        ]
+    },
+    "135": {
+        "text": [
+            "It is difficult to know when a girl is or isn't fertile",
+            "Biragoye kumenya igihe umukobwa ari cyangwa atabyara"
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "136",
+                "👎🏾": "137"
+            },
+            {
+                " 👍🏾": "136",
+                "👎🏾": "137"
+            }
+        ]
+    },
+    "136": {
+        "text": [
+            "True! Girls are fertile for up to 6 days during their menstrual cycle, but many factors influence when this occurs",
+            "Nibyo! Abakobwa barumbuka kugeza ku minsi 6 mugihe cyimihango, ariko ibintu byinshi bigira ingaruka mugihe ibi bibaye"
+        ],
+        "buttons": [
+            {
+                "Next": "138"
+            },
+            {
+                "ibitekerezo": "138"
+            }
+        ]
+    },
+    "137": {
+        "text": [
+            " Actually, it is difficult! Girls are fertile for up to 6 days during their menstrual cycle, but many factors influence when this occurs",
+            " Mubyukuri, biragoye! Abakobwa barumbuka mugihe cyiminsi 6 mugihe cyimihango, ariko ibintu byinshi bigira ingaruka mugihe ibi bibaye"
+        ],
+        "buttons": [
+            {
+                "Next": "138"
+            },
+            {
+                "ibitekerezo": "138"
+            }
+        ]
+    },
+    "138": {
+        "text": [
+            "See if you can identify all of the possible scenarios An abortion is legal with a doctor's certificate when:\n The girl is under age 18 ",
+            "Noneho reba ibisubizo urebe ibyo wakoze ko wabikoze neza.Kuvanamo inda ku ubushake biremewe iyo ufite icyemezo cya muganga iyo umukobwa atarageza ku imyaka 18 y'amavuko.\nIyo umukobwa ataruzuza imyaka 18 Y'amavuko        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "139",
+                "👎🏾": "140"
+            },
+            {
+                " 👍🏾": "139",
+                "👎🏾": "140"
+            }
+        ]
+    },
+    "139": {
+        "text": [
+            " Correct!",
+            "Nibyo!        "
+        ],
+        "buttons": [
+            {
+                "Next": "141"
+            },
+            {
+                "ibitekerezo": "141"
+            }
+        ]
+    },
+    "140": {
+        "text": [
+            " No, it is legal if the girl is under age 18",
+            "Oya biba byemewe  gusa iyo umukobwa afite munsi y'imyaka 18        "
+        ],
+        "buttons": [
+            {
+                "Next": "141"
+            },
+            {
+                "ibitekerezo": "141"
+            }
+        ]
+    },
+    "141": {
+        "text": [
+            "The pregnancy is a result of rape",
+            "Gutwita bituruka ku ugufatwa ku ngufu        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "142",
+                "👎🏾": "143"
+            },
+            {
+                " 👍🏾": "142",
+                "👎🏾": "143"
+            }
+        ]
+    },
+    "142": {
+        "text": [
+            "correct!",
+            "Nibyo!        "
+        ],
+        "buttons": [
+            {
+                "Next": "144"
+            },
+            {
+                "ibitekerezo": "144"
+            }
+        ]
+    },
+    "143": {
+        "text": [
+            " No, it is legal if the pregnancy is a result of rape",
+            "oya, byemewe n'amategeko iyo inda yaturutse ku gusambanywa ku ngufu        "
+        ],
+        "buttons": [
+            {
+                "Next": "144"
+            },
+            {
+                "ibitekerezo": "144"
+            }
+        ]
+    },
+    "144": {
+        "text": [
+            "The man who got her pregnant wants her to have an abortion",
+            "Umugabo wamuteye inda yifuzako ko ayivanamo        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "145",
+                "👎🏾": "146"
+            },
+            {
+                " 👍🏾": "145",
+                "👎🏾": "146"
+            }
+        ]
+    },
+    "145": {
+        "text": [
+            "No, that is not a legal reason for an abortion",
+            "Oya iyo ntabwo ari impamvu yemewe n'amategeko yo kuvanamo inda ku ubushake        "
+        ],
+        "buttons": [
+            {
+                "Next": "147"
+            },
+            {
+                "ibitekerezo": "147"
+            }
+        ]
+    },
+    "146": {
+        "text": [
+            " Correct!",
+            "nibyo"
+        ],
+        "buttons": [
+            {
+                "Next": "147"
+            },
+            {
+                "ibitekerezo": "147"
+            }
+        ]
+    },
+    "147": {
+        "text": [
+            "The pregnancy is a result of incest",
+            "Iyo watewe inda n'umuntu mufitanye isano  y'amaraso ya hafi        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "148",
+                "👎🏾": "149"
+            },
+            {
+                " 👍🏾": "148",
+                "👎🏾": "149"
+            }
+        ]
+    },
+    "148": {
+        "text": [
+            " Correct!",
+            "nibyo"
+        ],
+        "buttons": [
+            {
+                "Next": "150"
+            },
+            {
+                "ibitekerezo": "150"
+            }
+        ]
+    },
+    "149": {
+        "text": [
+            " No, it is legal if the pregnancy is a result of incest        ",
+            "Oya, byemewe n'amategeko iyo inda wayitewe n'umuntu mufitanye isano ya  hafi        "
+        ],
+        "buttons": [
+            {
+                "Next": "150"
+            },
+            {
+                "ibitekerezo": "150"
+            }
+        ]
+    },
+    "150": {
+        "text": [
+            "The pregnancy is the result of a forced marriage ",
+            "Inda ni ingaruka z'ishyingirwa ku gahato"
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "151",
+                "👎🏾": "152"
+            },
+            {
+                " 👍🏾": "151",
+                "👎🏾": "152"
+            }
+        ]
+    },
+    "151": {
+        "text": [
+            " Correct!",
+            "nibyo"
+        ],
+        "buttons": [
+            {
+                "Next": "153"
+            },
+            {
+                "ibitekerezo": "153"
+            }
+        ]
+    },
+    "152": {
+        "text": [
+            " No, it is legal if the pregnancy is a result of forced marriage",
+            " Oya, biremewe niba gutwita biturutse ku gushyingirwa ku gahato"
+        ],
+        "buttons": [
+            {
+                "Next": "153"
+            },
+            {
+                "ibitekerezo": "153"
+            }
+        ]
+    },
+    "153": {
+        "text": [
+            "The pregnancy puts the mother's life at risk",
+            "Gutwita bishyira ubuzima bw'mubyeyi mu kaga        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "154",
+                "👎🏾": "155"
+            },
+            {
+                " 👍🏾": "154",
+                "👎🏾": "155"
+            }
+        ]
+    },
+    "154": {
+        "text": [
+            " Correct!",
+            "nibyo"
+        ],
+        "buttons": [
+            {
+                "Next": "156"
+            },
+            {
+                "ibitekerezo": "156"
+            }
+        ]
+    },
+    "155": {
+        "text": [
+            " No, it is legal if the pregnancy puts the mother's life at risk",
+            "Oya, byemewe n'amategeko iyo inda wayitewe n'umuntu mufitanye isano ya  hafi        "
+        ],
+        "buttons": [
+            {
+                "Next": "156"
+            },
+            {
+                "ibitekerezo": "156"
+            }
+        ]
+    },
+    "156": {
+        "text": [
+            "The pregnancy increases poverty/ economic risk",
+            "gutwita byongers ubukene/ihungabana ry'ubukungu        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "157",
+                "👎🏾": "158"
+            },
+            {
+                " 👍🏾": "157",
+                "👎🏾": "158"
+            }
+        ]
+    },
+    "157": {
+        "text": [
+            " No, that is not a legal reason for an abortion",
+            "Oya iyo ntabwo ari impamvu yemewe n'amategeko yakwemerwa  yo kuvanamo inda kubushake        "
+        ],
+        "buttons": [
+            {
+                "Next": "159"
+            },
+            {
+                "ibitekerezo": "159"
+            }
+        ]
+    },
+    "158": {
+        "text": [
+            " Correct!",
+            "nibyo"
+        ],
+        "buttons": [
+            {
+                "Next": "159"
+            },
+            {
+                "ibitekerezo": "159"
+            }
+        ]
+    },
+    "159": {
+        "text": [
+            "Thanks for sharing what you know with me! \nDo you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Urakoze kudusangiza ubumenyi bwawe\nEse ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "160",
+                "Not now": "163"
+            },
+            {
+                "yego": "160",
+                "Oya ubutaha            ": "163"
+            }
+        ]
+    },
+    "160": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "160.01",
+                "Video": "160.02",
+                "Text": "160.1"
+            },
+            {
+                "Amajwi            ": "160.01",
+                "video            ": "160.02",
+                "Inyandiko            ": "161"
+            }
+        ]
+    },
+    "161": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "162",
+                "no ": "163"
+            },
+            {
+                "yego": "162",
+                "Oya": "163"
+            }
+        ]
+    },
+    "162": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "163"
+    },
+    "163": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Listen to another mini drama": "44",
+                "Go to Main menu": "41",
+                "Talk again later ": "163.1"
+            },
+            {
+                "umva indi kinamico": "44",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha        ": "163.1"
+            }
+        ]
+    },
+    "164": {
+        "text": [
+            "I have some mini radio dramas for you!",
+            "Mfite udukino duto twa radiyo kuri wewe!"
+        ],
+        "buttons": [
+            {
+                " Great! / Let's go!": "165"
+            },
+            {
+                "Birakomeye! / Reka tugende!": "165"
+            }
+        ]
+    },
+    "165": {
+        "text": [
+            "In each drama, young people learn how to learn how to protect their sexual and reproductive health and relationships\nWhich episode do you want to listen to?",
+            "Muri buri kinamico, urubyiruko rwiga uburyo bwo kurinda ubuzima bw’imibonano mpuzabitsina n’imyororokere n’imibanire \nNi ikihe gice ushaka kumva?"
+        ],
+        "buttons": [
+            {
+                "Episode 1: Can you get reliable SRH advice from your mum??": "166",
+                "Episode 2: David gives his friend Ganza the low-down on porn": "176",
+                "Episode 3: Ritha talks with Cynthia about the risks of having a sugar daddy": "185"
+            },
+            {
+                "Igice cya 1: Urashobora kubona inama za SRH zizewe na mama wawe ??": "166",
+                "Igice cya 2: David aha inshuti ye Ganza hasi-hasi kuri porunogarafiya": "176",
+                "Igice cya 3: Ritha aganira na Cynthia ku ngaruka zo kugira isukari papa": "185"
+            }
+        ]
+    },
+    "166": {
+        "text": [
+            "Can you get reliable SRH advice from your mum??",
+            "Urashobora kubona inama za SRH zizewe na mama wawe ??"
+        ],
+        "buttons": [
+            {
+                "Next": "167"
+            },
+            {
+                "ibitekerezo": "167"
+            }
+        ]
+    },
+    "167": {
+        "text": [
+            "What did you think of that drama?",
+            "utekereza iki ku ikinamico"
+        ],
+        "buttons": [
+            {
+                "⭐": "168",
+                "⭐️⭐": "168",
+                "⭐️⭐️⭐": "168",
+                "⭐️⭐️⭐️⭐": "168",
+                "⭐️⭐️⭐️⭐️⭐": "168"
+            },
+            {
+                "⭐": "168",
+                "⭐️⭐": "168",
+                "⭐️⭐️⭐": "168",
+                "⭐️⭐️⭐️⭐": "168",
+                "⭐️⭐️⭐️⭐️⭐": "168"
+            }
+        ]
+    },
+    "168": {
+        "text": [
+            "Keza was getting SRH information from the internet. But it's hard to know what information is reliable!\n Where do you get information on SRH and relationships?",
+            "Mbere yo kuganira na mama we, Keza yavanaga amakuru y'Ubuzima mpuzabitsina n'Imyorokere kuri interineti          Ariko nkuko bikunze kugaragara birakomeye kugirango ube wamenya niba ayo makuru yizewe\nNihehe ukura amakuru ku buzima bw'imyororokere? Kanda hasi urebe        "
+        ],
+        "skip": "169"
+    },
+    "169": {
+        "text": [
+            "I will give you reliable SRH information here and on my FaceBook page, @IrindeBot\n But real people can support you with SRH information, advice and physical care \nDo you have someone like this?",
+            "Nzaguha amakuru yizewe ya SRH hano no kurupapuro rwanjye rwa FaceBook, @IrindeBot \n Ariko abantu nyabo barashobora kugushyigikira amakuru ya SRH, inama no kwita kumubiri \nUfite umuntu nkuyu?"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "170",
+                "👎🏾": "170"
+            },
+            {
+                "👍🏾": "170",
+                "👎🏾": "170"
+            }
+        ]
+    },
+    "170": {
+        "text": [
+            "We all need aunties and mums to give us good advice!",
+            "Twese dukeneye ba nyirasenge na ba mama kugira ngo batugire inama nziza!"
+        ],
+        "buttons": [
+            {
+                "Next": "171"
+            },
+            {
+                "ibitekerezo": "171"
+            }
+        ]
+    },
+    "171": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "172",
+                "Not now": "175"
+            },
+            {
+                "yego": "172",
+                "oya ubutaha": "175"
+            }
+        ]
+    },
+    "172": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "172.01",
+                "Video": "172.02",
+                "Text": "172.1"
+            },
+            {
+                "Amajwi            ": "172.01",
+                "video            ": "172.02",
+                "Inyandiko            ": "172.1"
+            }
+        ]
+    },
+    "173": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "174",
+                "no ": "175"
+            },
+            {
+                "yego": "174",
+                "Oya": "175"
+            }
+        ]
+    },
+    "174": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "175"
+    },
+    "175": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Listen to another mini drama": "176",
+                "Go to Main menu": "41",
+                "Talk again later ": "175.1"
+            },
+            {
+                "umva indi kinamico": "176",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha        ": "175.1"
+            }
+        ]
+    },
+    "176": {
+        "text": [
+            "David gives his friend Ganza the low-down on porn",
+            "David aha inshuti ye Ganza hasi-hasi kuri porunogarafiya"
+        ],
+        "buttons": [
+            {
+                "Next": "177"
+            },
+            {
+                "ibitekerezo": "177"
+            }
+        ]
+    },
+    "177": {
+        "text": [
+            "What did you think of that drama?",
+            "utekereza iki ku ikinamico"
+        ],
+        "buttons": [
+            {
+                "⭐": "178",
+                "⭐️⭐": "178",
+                "⭐️⭐️⭐": "178",
+                "⭐️⭐️⭐️⭐": "178",
+                "⭐️⭐️⭐️⭐️⭐": "178"
+            },
+            {
+                "⭐": "178",
+                "⭐️⭐": "178",
+                "⭐️⭐️⭐": "178",
+                "⭐️⭐️⭐️⭐": "178",
+                "⭐️⭐️⭐️⭐️⭐": "178"
+            }
+        ]
+    },
+    "178": {
+        "text": [
+            "Did you learn anything from David about the risks of porn?",
+            "Waba hari icyo wigiye ku nama za David kubijyanye n'Ingaruka zo kureba porunogarafi? Byandike aha munsi         "
+        ],
+        "skip": "179"
+    },
+    "179": {
+        "text": [
+            "Porn may look exciting but it hurts a lot of people, including you!\nIt's a video, not real life! .And it can lead to increased... \nSexual violenceConflict,Unplanned pregnancy ,Disease ,Gender inequality \nIf you see porn that involves violence against children, please report it to #116 .Learn so that you can protect yourself!",
+            "Amashusho arashobora kugaragara ko ashimishije ariko birababaza abantu benshi, harimo nawe! \nNi videwo, ntabwo ari ubuzima busanzwe! .Kandi irashobora gutuma umuntu yiyongera ... porunogarafiya irimo ihohoterwa rikorerwa abana, nyamuneka ubimenyeshe kuri # 116 .Wige kugirango wirinde! "
+        ],
+        "buttons": [
+            {
+                "Next": "180"
+            },
+            {
+                "ibitekerezo": "180"
+            }
+        ]
+    },
+    "180": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "181",
+                "Not now": "184"
+            },
+            {
+                "yego": "181",
+                "Oya ubutaha            ": "184"
+            }
+        ]
+    },
+    "181": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "181.01",
+                "Video": "181.02",
+                "Text": "181.1"
+            },
+            {
+                "Amajwi            ": "181.01",
+                "video            ": "18.02",
+                "Inyandiko            ": "181.1"
+            }
+        ]
+    },
+    "182": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "183",
+                "no ": "184"
+            },
+            {
+                "yego": "183",
+                "Oya": "184"
+            }
+        ]
+    },
+    "183": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "184"
+    },
+    "184": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Listen to another mini drama": "185",
+                "Go to Main menu": "41",
+                "Talk again later ": "184.1"
+            },
+            {
+                "umva indi kinamico": "185",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha        ": "184.1"
+            }
+        ]
+    },
+    "185": {
+        "text": [
+            "Ritha talks with Cynthia about the risks of having a sugar daddy",
+            "Mu gice cya 3 cy'  Imibanire yanjye  Ritha aganiriza Cynthia ku ngaruka zo kugira Shuga Dadi        "
+        ],
+        "buttons": [
+            {
+                "Next": "186"
+            },
+            {
+                "ibitekerezo": "186"
+            }
+        ]
+    },
+    "186": {
+        "text": [
+            "What did you think of that drama?.",
+            "utekereza iki ku ikinamico"
+        ],
+        "buttons": [
+            {
+                "⭐": "187",
+                "⭐️⭐": "187",
+                "⭐️⭐️⭐": "187",
+                "⭐️⭐️⭐️⭐": "187",
+                "⭐️⭐️⭐️⭐️⭐": "187"
+            },
+            {
+                "⭐": "187",
+                "⭐️⭐": "187",
+                "⭐️⭐️⭐": "187",
+                "⭐️⭐️⭐️⭐": "187",
+                "⭐️⭐️⭐️⭐️⭐": "187"
+            }
+        ]
+    },
+    "187": {
+        "text": [
+            "Cynthia is in a tough spot! .She wants to look sharp, but she can't afford to buy what she wants\nWhat advice would you give Cynthia? ",
+            "Cynthia ari ahantu hakomeye. Arashaka gusa neza ariko nanone ntabashije kwigurira utuntu twiza akeneye   \nEse ni ibihe byago bishobora kugiwirira Cynthia? Hitamo ibyo wumva aribyo        "
+        ],
+        "skip": "188"
+    },
+    "188": {
+        "text": [
+            "How do you think Cynthia's boyfriend would feel if he knew that someone else was buying her gifts?",
+            "Utekereza ko umukunzi wa Cynthia yakumva ameze ate azi ko hari undi ugura impano ye?"
+        ],
+        "skip": "189"
+    },
+    "189": {
+        "text": [
+            "Is Cynthia setting herself up for success in life?",
+            "Urabona imyitwarire ya Cynthia  izamugeza ku iterambere mu buzima?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "190",
+                "👎🏾": "190"
+            },
+            {
+                "👍🏾": "190",
+                "👎🏾": "190"
+            }
+        ]
+    },
+    "190": {
+        "text": [
+            "It is illegal for someone age 18 or over to have sexual relations with a person under age 18",
+            "Nibyo cyangwa sibyo Amategeko ntiyemera ko umuntu ufite cyangwa ufite imyaka 18 no kurenza yakora imibonano mpuzabitsina n'umuntu utarakwiza imyaka 18        "
+        ],
+        "buttons": [
+            {
+                "True": "191",
+                "False": "192"
+            },
+            {
+                "Nukuri": "191",
+                "Ikinyoma": "192"
+            }
+        ]
+    },
+    "191": {
+        "text": [
+            " Yea, that's true!",
+            "Yego nibyo rwose        "
+        ],
+        "buttons": [
+            {
+                ": Next Question/Learn more": "193"
+            },
+            {
+                "Ibikurikira/menya ibindi            ": "193"
+            }
+        ]
+    },
+    "192": {
+        "text": [
+            "No, it's true. It is illegal for someone age 18 or over to have sexual relations with someone under age 18.",
+            "Mubyukuri nibyo , Amategeko ntiyemerako umuntu ufite imyaka 18 no kurenza akora imibonano mpuzabitsina n'umuntu utaruzuza imyaka 18         "
+        ],
+        "buttons": [
+            {
+                " Next Question/Learn more": "193"
+            },
+            {
+                "Ibikurikira/menya ibindi            ": "193"
+            }
+        ]
+    },
+    "193": {
+        "text": [
+            "If someone does NOT want to have sexual relations, they look like: ",
+            "Umuntu udashaka gukora imibonano mpuzabitsina agaragazwa:        "
+        ],
+        "buttons": [
+            {
+                "a) -->": "194",
+                "b) --> Yes, this person might be saying Yes to sex": "194",
+                "c) -->": "194",
+                "d) -->": "194",
+                "e) -->": "194",
+                "f) -->": "194",
+                "g) -->": "194",
+                "h": "194"
+            },
+            {
+                "a) -->": "194",
+                "b) --> Uwo muntu ashobora kuba yemeye gukora imibonano mpuzabitsina , ariko nanone ningombwa kubaza.            ": "194",
+                "c) -->": "194",
+                "d) -->": "194",
+                "e) -->": "194",
+                "f) -->": "194",
+                "g) -->": "194",
+                "h": "194"
+            }
+        ]
+    },
+    "194": {
+        "text": [
+            "If someone looks like they don't want to have sex, or they don't say a CLEAR “Yes” to sex, or they look unhappy or change their mind, they are NOT agreeing to have sex It is illegal to have sex with this person",
+            "Niba inshuti yawe itagaragaje ko ishaka gukora imibonano  mpuzabitsina cyangwa se akagaragazako atabyishimiye, cyangwa se yabivuyemo atemera gukora imibonano mpuzabitsina. Icyo gihe amategeko ntiyemera ko wakorana imibonano mpuzabitsina n'uwo muntu        "
+        ],
+        "buttons": [
+            {
+                "Next": "195"
+            },
+            {
+                "ibitekerezo": "195"
+            }
+        ]
+    },
+    "195": {
+        "text": [
+            "As a youth, I can get tested for HIV without my parents' permission or knowledge",
+            "Nkiri muto, nshobora kwipimisha virusi itera sida ntabiherewe uruhushya n'ababyeyi"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "196",
+                "👎🏾": "197"
+            },
+            {
+                "👍🏾": "196",
+                "👎🏾": "197"
+            }
+        ]
+    },
+    "196": {
+        "text": [
+            "That's right – you can go on your own or with your partner or a friend",
+            "Nibyo - urashobora kugenda wenyine cyangwa hamwe na mugenzi wawe cyangwa inshuti"
+        ],
+        "buttons": [
+            {
+                "Next": "198"
+            },
+            {
+                "ibitekerezo": "198"
+            }
+        ]
+    },
+    "197": {
+        "text": [
+            " No, you don't need to have your parent with you. You can go on your own or with a friend",
+            " Oya, ntukeneye kugira umubyeyi wawe nawe. Urashobora kugenda wenyine cyangwa hamwe n'inshuti"
+        ],
+        "buttons": [
+            {
+                "Next": "198"
+            },
+            {
+                "ibitekerezo": "198"
+            }
+        ]
+    },
+    "198": {
+        "text": [
+            "You can go to a Health Centre, hospital or One Stop Centre to request an HIV test. You can also call Babyl (#811) to get information on how to be tested.",
+            "Wemerewe kwipimisha agakoko gatera SIDA haba ku kigo nderabuzima , ku bitaro cyangwa n'ahandi hose bayipima.  Ushobora no guhamagara BABYL kuri nomero 811 ukabaza uko wakwipimisha ( Urengeje imyaka 16 ).                Ushobora no guhamagara KASHA ukisabira ikizamini cyawe. Kigurwa mafaranga RWF 4000 icyo gihe wahamagara *911*22*35041#                          Ubundi rero ushobora no kwishakira ikizamini cyawe kuri Pharmacy ( ku kigero cy'imyaka iyo ariyo yose)        "
+        ],
+        "buttons": [
+            {
+                "Next": "199"
+            },
+            {
+                "ibitekerezo": "199"
+            }
+        ]
+    },
+    "199": {
+        "text": [
+            "Which of these behaviours are high risk for pregnancy or STI/STDs?\nUnplanned sex",
+            "Ni iyihe muri iyo myitwarire yatera ibyago byinshi byo gutwita cyangwa kwandura  indwara zandurira mu mibonano mpuzabitsina        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "200",
+                "👎🏾": "201"
+            },
+            {
+                "👍🏾": "200",
+                "👎🏾": "201"
+            }
+        ]
+    },
+    "200": {
+        "text": [
+            " Yes! It's high risk",
+            " Yego! Ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "202"
+            },
+            {
+                "ibitekerezo": "202"
+            }
+        ]
+    },
+    "201": {
+        "text": [
+            "-> Actually, it is high risk        ",
+            "-> Mubyukuri, ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "202"
+            },
+            {
+                "ibitekerezo": "202"
+            }
+        ]
+    },
+    "202": {
+        "text": [
+            "Sex with multiple, concurrent partners        ",
+            "Imibonano mpuzabitsina nabafatanyabikorwa benshi, bahuje"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "203",
+                "👎🏾": "204"
+            },
+            {
+                "👍🏾": "203",
+                "👎🏾": "204"
+            }
+        ]
+    },
+    "203": {
+        "text": [
+            " Yes! It's high risk",
+            " Yego! Ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "205"
+            },
+            {
+                "ibitekerezo": "205"
+            }
+        ]
+    },
+    "204": {
+        "text": [
+            " Actually, it is high risk",
+            "- Mubyukuri, ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "205"
+            },
+            {
+                "ibitekerezo": "205"
+            }
+        ]
+    },
+    "205": {
+        "text": [
+            "Having sex with your spouse",
+            "Gukorana imibonano mpuzabitsina n'uwo mwashakanye        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "206",
+                "👎🏾": "207"
+            },
+            {
+                "👍🏾": "206",
+                "👎🏾": "207"
+            }
+        ]
+    },
+    "206": {
+        "text": [
+            " No, it's lower risk but you still need to use protection",
+            "Nibyo, gukorana imibonano mpuzabitsina n'uwo mwashakanye bizana ibyago bike ariko nanone uba ukeneye kwirinda         "
+        ],
+        "buttons": [
+            {
+                "Next": "208"
+            },
+            {
+                "ibitekerezo": "208"
+            }
+        ]
+    },
+    "207": {
+        "text": [
+            "Actually, it's lower risk but you still need to use protection",
+            "Mu by'ukuri, gukorana imibonano mpuzabitsina nuwo mwashakanye bizana ibyago bike ariko nanone uba ukeneye kwirinda        "
+        ],
+        "buttons": [
+            {
+                "Next": "208"
+            },
+            {
+                "ibitekerezo": "208"
+            }
+        ]
+    },
+    "208": {
+        "text": [
+            "Unprotected sex",
+            "Imibonano mpuzabitsina idakingiye        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "209",
+                "👎🏾": "210"
+            },
+            {
+                "👍🏾": "209",
+                "👎🏾": "210"
+            }
+        ]
+    },
+    "209": {
+        "text": [
+            " Yes! It's high risk",
+            " Yego! Ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "211"
+            },
+            {
+                "ibitekerezo": "211"
+            }
+        ]
+    },
+    "210": {
+        "text": [
+            " Actually, it is high risk",
+            "Mubyukuri, ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "211"
+            },
+            {
+                "ibitekerezo": "211"
+            }
+        ]
+    },
+    "211": {
+        "text": [
+            "Having sex without birth control",
+            "Gukora imibonano mpuzabitsina utabanje  kuboneza urubyaro        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "212",
+                "👎🏾": "213"
+            },
+            {
+                "👍🏾": "212",
+                "👎🏾": "213"
+            }
+        ]
+    },
+    "212": {
+        "text": [
+            " Yes! It's high risk for pregnancy",
+            "Yego! Gukora  Imibonano mpuzabitsina utabanje kuboneza urubyaro bigutera ibyago byinshi byo gutwita 🤰🏾        "
+        ],
+        "buttons": [
+            {
+                "Next": "214"
+            },
+            {
+                "ibitekerezo": "214"
+            }
+        ]
+    },
+    "213": {
+        "text": [
+            " Actually, it is high risk for pregnancy",
+            "Mubyukuri! Gukora  Imibonano mpuzabitsina utabanje kuboneza urubyaro bigutera ibyago byinshi byo gutwita 🤰🏾        "
+        ],
+        "buttons": [
+            {
+                "Next": "214"
+            },
+            {
+                "ibitekerezo": "214"
+            }
+        ]
+    },
+    "214": {
+        "text": [
+            "Having sex with a person you don't know well",
+            "Gukorana imibonano mpuzabitsina n'umuntu utazi neza 🤔        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "215",
+                "👎🏾": "216"
+            },
+            {
+                "👍🏾": "215",
+                "👎🏾": "216"
+            }
+        ]
+    },
+    "215": {
+        "text": [
+            " Yes! It's both high risk and dangerous",
+            "Yego! Gukorana imibonano mpuzabitsina n'umuntu utazi neza ni ibyago byinshi kandi bishobora no kugushyira mukaga              "
+        ],
+        "buttons": [
+            {
+                "Next": "217"
+            },
+            {
+                "ibitekerezo": "217"
+            }
+        ]
+    },
+    "216": {
+        "text": [
+            " Actually, it is both high risk and dangerous",
+            "Mubyukuri! Gukorana imibonano mpuzabitsina n'umuntu utazi neza ni ibyago byinshi kandi bishobora no kugushyira mu kaga           "
+        ],
+        "buttons": [
+            {
+                "Next": "217"
+            },
+            {
+                "ibitekerezo": "217"
+            }
+        ]
+    },
+    "217": {
+        "text": [
+            "Using a condom",
+            "Gukoresha agakingirizo        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "218",
+                "👎🏾": "219"
+            },
+            {
+                "👍🏾": "218",
+                "👎🏾": "219"
+            }
+        ]
+    },
+    "218": {
+        "text": [
+            " No, it's lower risk",
+            "Mubyukuri, gukoresha agakingirizo bigabanya ibyago byo gutwita no kwandura indwara zandurira mu mibonano mpuzabitsina        "
+        ],
+        "buttons": [
+            {
+                "Next": "220"
+            },
+            {
+                "ibitekerezo": "220"
+            }
+        ]
+    },
+    "219": {
+        "text": [
+            "Actually, it's lower risk ",
+            "Yego, gukoresha agakingirizo bigabanya ibyago byo gutwita no kwandura indwara zandurira mu mibonano mpuzabitsina        "
+        ],
+        "buttons": [
+            {
+                "Next": "220"
+            },
+            {
+                "ibitekerezo": "220"
+            }
+        ]
+    },
+    "220": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "221",
+                "Not now": "224"
+            },
+            {
+                "yego": "221",
+                "Oya ubutaha            ": "224"
+            }
+        ]
+    },
+    "221": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "221.01",
+                "Video": "221.02",
+                "Text": "221.1"
+            },
+            {
+                "Amajwi            ": "221.01",
+                "video            ": "221.02",
+                "Inyandiko            ": "221.1"
+            }
+        ]
+    },
+    "222": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "223",
+                "no ": "224"
+            },
+            {
+                "yego": "223",
+                "Oya": "224"
+            }
+        ]
+    },
+    "223": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "224"
+    },
+    "224": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Listen to another mini drama": "44",
+                "Go to Main menu": "41",
+                "Talk again later ": "224.1"
+            },
+            {
+                "umva indi kinamico": "44",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha        ": "224.1"
+            }
+        ]
+    },
+    "225": {
+        "text": [
+            "Talking with children about SRH and relationships can be really hard!",
+            "Kuganira n'abana ku buzima bw'imyororokere  n'imibanire bishobora kugorana rwose!        "
+        ],
+        "buttons": [
+            {
+                " YES! (cyane!) ": "226",
+                "You said it!": "226"
+            },
+            {
+                "Yego! (Cyane!)": "226",
+                "Wabivuze!": "226"
+            }
+        ]
+    },
+    "226": {
+        "text": [
+            "I want to help you",
+            "Nifuzaga  kugufasha! Kanda 'Ibikurikira' mugihe witeguye gutangira:        "
+        ],
+        "buttons": [
+            {
+                ": Great!": "227"
+            },
+            {
+                "bikomeye": "227"
+            }
+        ]
+    },
+    "227": {
+        "text": [
+            "Have you ever talked with your child about SRH?",
+            "Wigeze uganiriza abana bawe b'ingimbi ku bijyanye n'ubuzima bw'imyororokere?        "
+        ],
+        "buttons": [
+            {
+                " No, never!": "228",
+                "Yes, once or twice": "228",
+                "Sure, we talk often ": "228"
+            },
+            {
+                "Oya nta narimwe            ": "228",
+                "Yego rimwe cyangwa kabiri            ": "228",
+                "Yego turavugana kenshi            ": "228"
+            }
+        ]
+    },
+    "228": {
+        "text": [
+            "How confident do you feel talking with your adolescent child about SRH? ",
+            "Wumva wiyizeye bingana iki iyo urimo kuganiriza abana bawe b'ingimbi n'abangavu ku bijyanye n'urukundo ? Ihe amanota ukurikije iki kigero : 5= Numva niyizeye neza, 1= Numva ntiyizeye nagato        "
+        ],
+        "buttons": [
+            {
+                "⭐": "229",
+                "⭐️⭐": "229",
+                "⭐️⭐️⭐": "229",
+                "⭐️⭐️⭐️⭐": "229",
+                "⭐️⭐️⭐️⭐️⭐": "229"
+            },
+            {
+                "⭐": "229",
+                "⭐️⭐": "229",
+                "⭐️⭐️⭐": "229",
+                "⭐️⭐️⭐️⭐": "229",
+                "⭐️⭐️⭐️⭐️⭐": "229"
+            }
+        ]
+    },
+    "229": {
+        "text": [
+            "Have you ever talked with your (adolescent) child about their romantic relationships?",
+            "Wigeze uganiriza abana bawe b'ingimbi n'abangavu ku bijyanye n'ubuzima bw'urukundo?        "
+        ],
+        "buttons": [
+            {
+                " No, never!": "230",
+                "Yes, once or twice": "230",
+                "Sure, we talk often ": "230"
+            },
+            {
+                "Oya nta narimwe            ": "230",
+                "Yego rimwe cyangwa kabiri            ": "230",
+                "Yego turavugana kenshi            ": "230"
+            }
+        ]
+    },
+    "230": {
+        "text": [
+            "How confident do you feel talking with your adolescent child about their romantic relationships?",
+            "Wumva wiyizeye bingana iki iyo urimo kuganiriza abana bawe b'ingimbi n'abangavu ku bijyanye n'urukundo ? Ihe amanota ukurikije iki kigero : 5= Numva niyizeye neza, 1= Numva ntiyizeye nagato        "
+        ],
+        "buttons": [
+            {
+                "⭐": "231",
+                "⭐️⭐": "231",
+                "⭐️⭐️⭐": "231",
+                "⭐️⭐️⭐️⭐": "231",
+                "⭐️⭐️⭐️⭐️⭐": "231"
+            },
+            {
+                "⭐": "231",
+                "⭐️⭐": "231",
+                "⭐️⭐️⭐": "231",
+                "⭐️⭐️⭐️⭐": "231",
+                "⭐️⭐️⭐️⭐️⭐": "231"
+            }
+        ]
+    },
+    "231": {
+        "text": [
+            "If you think your child is spending time with a friend who is a bad influence, what should you do?",
+            "Niba utekereza ko umwana wawe amarana umwanya n'inshuti itagira ingaruka mbi, ugomba gukora iki?"
+        ],
+        "buttons": [
+            {
+                "Yell at them and tell them to drop their friend": "232",
+                "Have a respectful conversation to learn why they are spending time with that person -": "233",
+                "Ignore the situation": "234"
+            },
+            {
+                "Kubatonganya no kubabwira kureka inshuti zabo            ": "232",
+                "Gira ikiganiro cyiyubashye kugirango umenye impamvu bagendana n'umuntu nkuwo            ": "233",
+                "Kwirengagiza uko ibintu bimeze            ": "234"
+            }
+        ]
+    },
+    "232": {
+        "text": [
+            " If you do that, they likely won't want to talk with you",
+            "Niba ukora ibyo, birashoboka ko batazifuza kuvugana nawe        "
+        ],
+        "buttons": [
+            {
+                "Next": "235"
+            },
+            {
+                "ibitekerezo": "235"
+            }
+        ]
+    },
+    "233": {
+        "text": [
+            "Yes! Listening and speaking respectfully is the best way to build a good relationship with your child so they will be open and accept your support/advice ",
+            "Yego! Kuganira mucyubahiro ni inzira nziza yo kubaka umubano mwiza n'umwana wawe kugirango bazajye bakwisanzuraho        "
+        ],
+        "buttons": [
+            {
+                "Next": "235"
+            },
+            {
+                "ibitekerezo": "235"
+            }
+        ]
+    },
+    "234": {
+        "text": [
+            "This isn't the best idea because they probably need your support/advice",
+            "Iki ntabwo aricyo gitekerezo cyiza kuko birashoboka ko bakeneye ubundi bufasha cyangwa inama        "
+        ],
+        "buttons": [
+            {
+                "Next": "235"
+            },
+            {
+                "ibitekerezo": "235"
+            }
+        ]
+    },
+    "235": {
+        "text": [
+            "If you think your child is engaging in high -risk behaviours, what should you do? ",
+            "Niba utekereza ko umwana wawe yishora mu ngeso mbi zamuteza ibyago byinshi 💥, wagombye gukora iki?        "
+        ],
+        "buttons": [
+            {
+                "Yell at them and tell them to drop their friend": "236",
+                "Have a respectful conversation to learn why they are spending time with that person -": "237",
+                "Ignore the situation": "238"
+            },
+            {
+                "Kubatonganya no kubabwira kureka inshuti zabo            ": "236",
+                "Gira ikiganiro cyiyubashye kugirango umenye impamvu bagendana n'umuntu nkuwo            ": "237",
+                "Kwirengagiza uko ibintu bimeze            ": "238"
+            }
+        ]
+    },
+    "236": {
+        "text": [
+            " If you do that, they likely won't want to talk with you",
+            "Niba ukora ibyo, birashoboka ko batazifuza kuvugana nawe        "
+        ],
+        "buttons": [
+            {
+                "Next": "239"
+            },
+            {
+                "ibitekerezo": "239"
+            }
+        ]
+    },
+    "237": {
+        "text": [
+            "Yes! Listening and speaking respectfully is the best way to build a good relationship with your child so they will be open and accept your support/advice ",
+            "Yego! Kuganira mucyubahiro ni inzira nziza yo kubaka umubano mwiza n'umwana wawe kugirango bazajye bakwisanzuraho        "
+        ],
+        "buttons": [
+            {
+                "Next": "239"
+            },
+            {
+                "ibitekerezo": "239"
+            }
+        ]
+    },
+    "238": {
+        "text": [
+            "This isn't the best idea because they probably need your support/advice",
+            "Iki ntabwo aricyo gitekerezo cyiza kuko birashoboka ko bakeneye ubundi bufasha cyangwa inama        "
+        ],
+        "buttons": [
+            {
+                "Next": "239"
+            },
+            {
+                "ibitekerezo": "239"
+            }
+        ]
+    },
+    "239": {
+        "text": [
+            "In the past, it was essential for girls to do guca imyeyo before marriage. Today, is it important to teach girls guca imyeyo",
+            "Kera, byari ibyingenzi ko abakobwa bakora guca imyeyo mbere y'ubukwe. Ese uyu munsi, ni ngombwa kuganira n'abakobwa kubyerekeye guca imyeyo?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "240",
+                "👎🏾": "245",
+                "i dont know": "245"
+            },
+            {
+                "👍🏾": "240",
+                "👎🏾": "245",
+                "Simbizi": "245"
+            }
+        ]
+    },
+    "240": {
+        "text": [
+            "It's part of Rwanda's good culture! ",
+            "Ni kimwe mu ibigize umuco mwiza w'u Rwanda! 🇷🇼        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "241",
+                "👎🏾": "241"
+            },
+            {
+                "👍🏾": "241",
+                "👎🏾": "241"
+            }
+        ]
+    },
+    "241": {
+        "text": [
+            "It's important to 'cover' a girl's private parts",
+            "Bifasha kwambika umwana w'umukobwa bigahisha ubwambure bwe        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "242",
+                "👎🏾": "242"
+            },
+            {
+                "👍🏾": "242",
+                "👎🏾": "242"
+            }
+        ]
+    },
+    "242": {
+        "text": [
+            "It enhances a man's pleasure during sex",
+            "Byongera umunezero w'umugabo mugihe cy'imibonano mpuzabitsina        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "243",
+                "👎🏾": "243"
+            },
+            {
+                "👍🏾": "243",
+                "👎🏾": "243"
+            }
+        ]
+    },
+    "243": {
+        "text": [
+            "It enhances a woman's pleasure during sex",
+            "Byongera umunezero w'umugore mugihe cy'imibonano mpuzabitsina        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "244",
+                "👎🏾": "244"
+            },
+            {
+                "👍🏾": "244",
+                "👎🏾": "244"
+            }
+        ]
+    },
+    "244": {
+        "text": [
+            "Doing guca imyeyo gives girls pleasure ",
+            "Guca imyeyo bitera abakobwa kwishima iyo bari hamwe        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "245",
+                "👎🏾": "245"
+            },
+            {
+                "👍🏾": "245",
+                "👎🏾": "245"
+            }
+        ]
+    },
+    "245": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "246",
+                "Not now": "249"
+            },
+            {
+                "yego": "246",
+                "Oya ubutaha            ": "249"
+            }
+        ]
+    },
+    "246": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "246.01",
+                "Video": "246.02",
+                "Text": "246.1"
+            },
+            {
+                "Amajwi            ": "246.01",
+                "video            ": "246.02",
+                "Inyandiko            ": "246.1"
+            }
+        ]
+    },
+    "247": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "248",
+                "no ": "249"
+            },
+            {
+                "yego": "248",
+                "oya ": "249"
+            }
+        ]
+    },
+    "248": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "249"
+    },
+    "249": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Another quiz": "250",
+                "Go to Main menu": "41",
+                "Talk again later ": "249.1"
+            },
+            {
+                "umva indi kinamico": "250",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha        ": "249.1"
+            }
+        ]
+    },
+    "250": {
+        "text": [
+            "It's difficult to get information you can trust about adolescent SRH",
+            "Biragoye kubona amakuru ushobora kwizera kubyerekeye ingimbi SRH"
+        ],
+        "buttons": [
+            {
+                "• Yes! (cyane!) ": "251",
+                "• Sure!": "251"
+            },
+            {
+                "• Yego! (Cyane!)": "251",
+                "• Nibyo rwose!": "251"
+            }
+        ]
+    },
+    "251": {
+        "text": [
+            "I want to help you learn so you can protect yourself ",
+            "Ndashaka kugufasha kwiga kugirango ubashe kwikingira "
+        ],
+        "buttons": [
+            {
+                " Great!": "252"
+            },
+            {
+                "bikomeye": "252"
+            }
+        ]
+    },
+    "252": {
+        "text": [
+            "True 👍🏽 or false 👎🏾\n A girl can get pregnant the first time she has sex?",
+            "Nibyo 👍🏾 cyangwa sibyo 👎🏾? Umukobwa ashobora gusama aribwo bwambere akoze imibonano mpuzabitsina.        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "253",
+                "👎🏾": "254"
+            },
+            {
+                "👍🏾": "253",
+                "👎🏾": "254"
+            }
+        ]
+    },
+    "253": {
+        "text": [
+            " Yes! That's true",
+            " Yes! That's true"
+        ],
+        "buttons": [
+            {
+                "Next": "255"
+            },
+            {
+                "ibitekerezo": "255"
+            }
+        ]
+    },
+    "254": {
+        "text": [
+            "No, it's true. A girl can get pregnant the first time she has sex",
+            "No, it's true. A girl can get pregnant the first time she has sex"
+        ],
+        "buttons": [
+            {
+                "Next": "255"
+            },
+            {
+                "ibitekerezo": "255"
+            }
+        ]
+    },
+    "255": {
+        "text": [
+            "You can cure acne by having sex!",
+            "Nibyo 👍🏾 cyangwaSibyo 👎🏾: Gukora imibonano mpuzabitsina bikiza ibishishi/ibiheri        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "256",
+                "👎🏾": "258"
+            },
+            {
+                "👍🏾": "256",
+                "👎🏾": "258"
+            }
+        ]
+    },
+    "256": {
+        "text": [
+            " No, this is FALSE\n> You can't cure acne by having sex. When you're a teenager, acne is usually caused by body changes.",
+            "Oya, ibi NIBINYOMA - ntushobora gukira ibishishi/ibiheri kuberako wakoze  imibonano mpuzabitsina. Iyo uri ingimbi, ubusanzwe kugira ibishishi biterwa no guhindagurika k'umubiri n'imisemburo        "
+        ],
+        "buttons": [
+            {
+                "Next Question": "260",
+                "Learn more": "257"
+            },
+            {
+                "Ikibazo gikurikira": "260",
+                "Wige byinshi": "257"
+            }
+        ]
+    },
+    "257": {
+        "text": [
+            "Don't put oil on or near skin with ibishishi ▪ Treat ibishishi early ▪ Put citrus juice on pimples ▪ Consult your doctor for serious cases",
+            "Iyo ufite ibishishi … ☑️ Ntukisige amavuta kuruhu mugihe ubirwaye.                        Uzabyivuze hakiri kare               Isige umutobe w'indimu aho ubirwaye                                       Baza muganga wawe kubibazo bikomeye        "
+        ],
+        "buttons": [
+            {
+                "Next question": "260"
+            },
+            {
+                "ikibazo gikurikira": "260"
+            }
+        ]
+    },
+    "258": {
+        "text": [
+            " RIght! --> You can't cure acne by having sex. When you're a teenager, acne is usually caused by body changes. ",
+            "Nibyo! Ntushobora gukiza acne ukora imibonano mpuzabitsina. Iyo uri ingimbi, ubusanzwe acne iterwa no guhindura umubiri.        "
+        ],
+        "buttons": [
+            {
+                "Next Question": "260",
+                "Learn more": "259"
+            },
+            {
+                "ikibazo gikurikira": "260",
+                "wige byinshi": "256"
+            }
+        ]
+    },
+    "259": {
+        "text": [
+            "Don't put oil on or near skin with ibishishi ▪ Treat ibishishi early ▪ Put citrus juice on pimples ▪ Consult your doctor for serious cases",
+            "Iyo ufite ibishishi … ☑️ Ntukisige amavuta kuruhu mugihe ubirwaye.                        Uzabyivuze hakiri kare               Isige umutobe w'indimu aho ubirwaye                                       Baza muganga wawe kubibazo bikomeye        "
+        ],
+        "buttons": [
+            {
+                "Next Question": "260"
+            },
+            {
+                "ikibazo gikurikira": "260"
+            }
+        ]
+    },
+    "260": {
+        "text": [
+            "A girl can get pregnant during her period",
+            "Nibyo 👍🏾 cyangwa sibyo 👎🏾: Umukobwa ashobora gusama mu gihe akoze imibonano mpuzabitsina ari mu mihango        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "261",
+                "👎🏾": "262"
+            },
+            {
+                "👍🏾": "261",
+                "👎🏾": "262"
+            }
+        ]
+    },
+    "261": {
+        "text": [
+            "Yes, a girl can get pregnant during her period -especially if she has a short cycle",
+            "Nibyo, umukobwa ashobora gusama mu gihe akoze imibonano mpuzabitsina ari mumihango  - cyane cyane iyo afite ukwezi kugufi        "
+        ],
+        "buttons": [
+            {
+                "Next": "263"
+            },
+            {
+                "ibitekerezo": "263"
+            }
+        ]
+    },
+    "262": {
+        "text": [
+            " No, a girl can get pregnant during her period - especially if she has a short cycle",
+            "Mubyukuri, NIBYO. Umukobwa arashobora gusama iyo akora imibonano mpuzabitsina mugihe cye - cyane cyane iyo afite ukwezi kugufi        "
+        ],
+        "buttons": [
+            {
+                "Next": "263"
+            },
+            {
+                "ibitekerezo": "263"
+            }
+        ]
+    },
+    "263": {
+        "text": [
+            "Girls usually get their period by age 13",
+            "Nukuri 👍🏾 cyangwa ibinyoma 👎🏾: Ubusanzwe abakobwa babona imihango yabo kumyaka 13        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "264",
+                "👎🏾": "265"
+            },
+            {
+                "👍🏾": "264",
+                "👎🏾": "265"
+            }
+        ]
+    },
+    "264": {
+        "text": [
+            "Yes, that's true, but they can get it as early as age 8 and as late as age 16",
+            "Nibyo, nukuri, ariko bashobora kuyibona bakiri ku myaka 8 kandi bitarenze imyaka 16        "
+        ],
+        "buttons": [
+            {
+                "Next": "266"
+            },
+            {
+                "ibitekerezo": "266"
+            }
+        ]
+    },
+    "265": {
+        "text": [
+            " Actually, that's true, but they can get it as early as age 8 and as late as age 16",
+            "Mubyukuri, Nibyo, ariko bashobora kuyibona bakiri ku myaka 8 kandi bitarenze imyaka 16        "
+        ],
+        "buttons": [
+            {
+                "Next": "266"
+            },
+            {
+                "ibitekerezo": "266"
+            }
+        ]
+    },
+    "266": {
+        "text": [
+            "See if you can identify all of the possible scenarios An abortion is legal with a doctor's certificate when:\n The girl is under age 18 ",
+            "Noneho reba ibisubizo urebe ibyo wakoze ko wabikoze neza\nKuvanamo inda ku ubushake biremewe iyo ufite icyemezo cya muganga iyo umukobwa atarageza ku imyaka 18 y'amavuko Iyo umukobwa ataruzuza imyaka 18 Y'amavuko        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "267",
+                "👎🏾": "268"
+            },
+            {
+                " 👍🏾": "267",
+                "👎🏾": "268"
+            }
+        ]
+    },
+    "267": {
+        "text": [
+            " Correct!",
+            "Nibyo!        "
+        ],
+        "buttons": [
+            {
+                "Next": "269"
+            },
+            {
+                "ibitekerezo": "269"
+            }
+        ]
+    },
+    "268": {
+        "text": [
+            " No, it is legal if the girl is under age 18",
+            "Oya biba byemewe  gusa iyo umukobwa afite munsi y'imyaka 18        "
+        ],
+        "buttons": [
+            {
+                "Next": "269"
+            },
+            {
+                "ibitekerezo": "269"
+            }
+        ]
+    },
+    "269": {
+        "text": [
+            "The pregnancy is a result of rape",
+            "Gutwita bituruka ku ugufatwa ku ngufu        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "270",
+                "👎🏾": "271"
+            },
+            {
+                " 👍🏾": "270",
+                "👎🏾": "271"
+            }
+        ]
+    },
+    "270": {
+        "text": [
+            "correct!",
+            "nibyo"
+        ],
+        "buttons": [
+            {
+                "Next": "273"
+            },
+            {
+                "ibitekerezo": "273"
+            }
+        ]
+    },
+    "271": {
+        "text": [
+            " No, it is legal if the pregnancy is a result of rape",
+            "oya, byemewe n'amategeko iyo inda yaturutse ku gusambanywa ku ngufu        "
+        ],
+        "buttons": [
+            {
+                "Next": "273"
+            },
+            {
+                "ibitekerezo": "273"
+            }
+        ]
+    },
+    "273": {
+        "text": [
+            "The man who got her pregnant wants her to have an abortion",
+            "Umugabo wamuteye inda yifuzako ko ayivanamo        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "274",
+                "👎🏾": "275"
+            },
+            {
+                " 👍🏾": "274",
+                "👎🏾": "275"
+            }
+        ]
+    },
+    "274": {
+        "text": [
+            "No, that is not a legal reason for an abortion",
+            "Oya iyo ntabwo ari impamvu yemewe n'amategeko yo kuvanamo inda ku ubushake        "
+        ],
+        "buttons": [
+            {
+                "Next": "276"
+            },
+            {
+                "ibitekerezo": "276"
+            }
+        ]
+    },
+    "275": {
+        "text": [
+            " Correct!",
+            "Nibyo!        "
+        ],
+        "buttons": [
+            {
+                "Next": "276"
+            },
+            {
+                "ibitekerezo": "276"
+            }
+        ]
+    },
+    "276": {
+        "text": [
+            "The pregnancy is a result of incest",
+            "Iyo watewe inda n'umuntu mufitanye isano  y'amaraso ya hafi        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "277",
+                "👎🏾": "278"
+            },
+            {
+                " 👍🏾": "277",
+                "👎🏾": "278"
+            }
+        ]
+    },
+    "277": {
+        "text": [
+            " Correct!",
+            "Nibyo!        "
+        ],
+        "buttons": [
+            {
+                "Next": "279"
+            },
+            {
+                "ibitekerezo": "279"
+            }
+        ]
+    },
+    "278": {
+        "text": [
+            " No, it is legal if the pregnancy is a result of incest        ",
+            "Oya, byemewe n'amategeko iyo inda wayitewe n'umuntu mufitanye isano ya  hafi        "
+        ],
+        "buttons": [
+            {
+                "Next": "279"
+            },
+            {
+                "ibitekerezo": "279"
+            }
+        ]
+    },
+    "279": {
+        "text": [
+            "The pregnancy is the result of a forced marriage ",
+            "Inda ni ingaruka z'ishyingirwa ku gahato"
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "280",
+                "👎🏾": "281"
+            },
+            {
+                " 👍🏾": "280",
+                "👎🏾": "281"
+            }
+        ]
+    },
+    "280": {
+        "text": [
+            " Correct!",
+            "nibyo"
+        ],
+        "buttons": [
+            {
+                "Next": "282"
+            },
+            {
+                "ibitekerezo": "282"
+            }
+        ]
+    },
+    "281": {
+        "text": [
+            " No, it is legal if the pregnancy is a result of forced marriage",
+            "Oya, biremewe niba gutwita biturutse ku gushyingirwa ku gahato"
+        ],
+        "buttons": [
+            {
+                "Next": "282"
+            },
+            {
+                "ibitekerezo": "282"
+            }
+        ]
+    },
+    "282": {
+        "text": [
+            "The pregnancy puts the mother's life at risk",
+            "Gutwita bishyira ubuzima bw'mubyeyi mu kaga        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "283",
+                "👎🏾": "284"
+            },
+            {
+                " 👍🏾": "283",
+                "👎🏾": "284"
+            }
+        ]
+    },
+    "283": {
+        "text": [
+            " Correct!",
+            "Nibyo!        "
+        ],
+        "buttons": [
+            {
+                "Next": "285"
+            },
+            {
+                "ibitekerezo": "285"
+            }
+        ]
+    },
+    "284": {
+        "text": [
+            " No, it is legal if the pregnancy puts the mother's life at risk",
+            "Oya, igihe umubyeyi afite ibyago byo guhitanwa n'iyo nda biremewe kuyivanamo        "
+        ],
+        "buttons": [
+            {
+                "Next": "285"
+            },
+            {
+                "ibitekerezo": "285"
+            }
+        ]
+    },
+    "285": {
+        "text": [
+            "The pregnancy increases poverty/ economic risk",
+            "gutwita byongers ubukene/ihungabana ry'ubukungu        "
+        ],
+        "buttons": [
+            {
+                " 👍🏾": "286",
+                "👎🏾": "287"
+            },
+            {
+                " 👍🏾": "286",
+                "👎🏾": "287"
+            }
+        ]
+    },
+    "286": {
+        "text": [
+            " No, that is not a legal reason for an abortion",
+            "Oya iyo ntabwo ari impamvu yemewe n'amategeko yakwemerwa  yo kuvanamo inda kubushake        "
+        ],
+        "buttons": [
+            {
+                "Next": "288"
+            },
+            {
+                "ibitekerezo": "288"
+            }
+        ]
+    },
+    "287": {
+        "text": [
+            " Correct!",
+            "Nibyo!        "
+        ],
+        "buttons": [
+            {
+                "Next": "288"
+            },
+            {
+                "ibitekerezo": "288"
+            }
+        ]
+    },
+    "288": {
+        "text": [
+            "Now let's see what you know about HIV/AIDs!",
+            "Noneho reka turebe icyo uzi kuri VIH / SIDA!"
+        ],
+        "buttons": [
+            {
+                "Ok": "289",
+                "Not now, thanks": "45"
+            },
+            {
+                "Ok": "289",
+                "Ntabwo ari ubu, urakoze": "45"
+            }
+        ]
+    },
+    "289": {
+        "text": [
+            "True 👍🏽 or false 👎🏾? \nThe HIV virus only spreads through sexual fluids, breastmilk,and blood",
+            "Nibyo 👍🏾 cyangwaSibyo 👎🏾? Virusi itera sida yandura binyuze mu mibonano mpuzabitsina, amashereka n'amaraso, ariko ntinyura mu cyuya 💦        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "290",
+                "👎🏾": "291"
+            },
+            {
+                "👍🏾": "290",
+                "👎🏾": "291"
+            }
+        ]
+    },
+    "290": {
+        "text": [
+            "True! --> There is no HIV in sweat. You can’t get HIV through touching or hugging (skin contact)",
+            "Nibyo! Nta virusi itera SIDA iba mu cyuya. Ntushobora kwandura virusi itera sida aruko bagukozeho cyangwa baguhobereye (guhuza uruhu)        "
+        ],
+        "buttons": [
+            {
+                "Next": "292"
+            },
+            {
+                "ibitekerezo": "292"
+            }
+        ]
+    },
+    "291": {
+        "text": [
+            " No, that's correct. There is no HIV in sweat. You can’t get HIV through touching or hugging (skin contact)",
+            "Mubyukuri, nibyo. Nta virusi itera SIDA iba mu cyuya. Ntushobora kwandura virusi itera sida aruko bagukozeho cyangwa baguhobereye (guhuza uruhu)        "
+        ],
+        "buttons": [
+            {
+                "Next": "292"
+            },
+            {
+                "ibitekerezo": "292"
+            }
+        ]
+    },
+    "292": {
+        "text": [
+            "Everyone has the right to be tested for HIV for free",
+            "Nibyo 👍🏾 cyangwa Sibyo 👎🏾? Umuntu wese afite uburenganzira bwo kwipimisha virusi itera sida ku buntu!        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "293",
+                "👎🏾": "294"
+            },
+            {
+                "👍🏾": "293",
+                "👎🏾": "294"
+            }
+        ]
+    },
+    "293": {
+        "text": [
+            " True!",
+            "nibyo"
+        ],
+        "buttons": [
+            {
+                "Next": "295"
+            },
+            {
+                "ibitekerezo": "295"
+            }
+        ]
+    },
+    "294": {
+        "text": [
+            " No, testing is free – cool hey?\nPeople under age 18 need to go with a caregiver",
+            "Mu byukuri nibyo! Kwipimisha ni ubuntu - Yoo nibyiza!  Ariko abantu bari munsi yimyaka 18 bakenera kujyana n'umubyeyi cyangwa undi wese umurera        "
+        ],
+        "buttons": [
+            {
+                "Next": "295"
+            },
+            {
+                "ibitekerezo": "295"
+            }
+        ]
+    },
+    "295": {
+        "text": [
+            "HIV treatment helps people live well AND prevents HIV from spreading",
+            "Nibyo 👍🏾 cyangwa Sibyo 👎🏾? Kuvura virusi itera sida bifasha abantu bayirwaye kubaho neza kandi birinda gukwirakwiza virusi itera SIDA        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "296",
+                "👎🏾": "297"
+            },
+            {
+                "👍🏾": "296",
+                "👎🏾": "297"
+            }
+        ]
+    },
+    "296": {
+        "text": [
+            " True! --> HIV treatment helps people live a normal life. It can also decrease the virus in your body so that you cannot pass HIV on to someone else. Bonus! ",
+            "Nibyo! Kuvura virusi itera sida bifasha abantu kubaho ubuzima busanzwe. Bishobora kandi kugabanya virusi mumubiri wawe kugirango utanduza undi muntu virusi itera sida.! 🙌🏾        "
+        ],
+        "buttons": [
+            {
+                "next": "298"
+            },
+            {
+                "ibitekerezo": "298"
+            }
+        ]
+    },
+    "297": {
+        "text": [
+            " No, that is True. --> HIV treatment helps people live a normal life. It can also decrease the virus in your body so that you cannot pass HIV on to someone else. Bonus!",
+            "Mubyukuri, NUKURI. Kuvura virusi itera sida bifasha abantu kubaho ubuzima busanzwe. Bishobora kandi kugabanya virusi mumubiri wawe kugirango utanduza undi muntu virusi itera sida.! 🙌🏾        "
+        ],
+        "buttons": [
+            {
+                "next": "298"
+            },
+            {
+                "ibitekerezo": "298"
+            }
+        ]
+    },
+    "298": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "299",
+                "Not now": "302"
+            },
+            {
+                "yego": "299",
+                "Oya ubutaha            ": "302"
+            }
+        ]
+    },
+    "299": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "299.01",
+                "Video": "299.02",
+                "Text": "299.1"
+            },
+            {
+                "Amajwi            ": "299.01",
+                "video            ": "299.02",
+                "Inyandiko            ": "299.1"
+            }
+        ]
+    },
+    "300": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "301",
+                "no ": "302"
+            },
+            {
+                "yego": "301",
+                "Oya": "302"
+            }
+        ]
+    },
+    "301": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "302"
+    },
+    "302": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Another quiz": "303",
+                "Go to Main menu": "41",
+                "Talk again later ": "302.1"
+            },
+            {
+                "umva indi kinamico": "303",
+                "jya kuri menu nkuru": "41",
+                "Tuzavugana ubutaha        ": "302.1"
+            }
+        ]
+    },
+    "303": {
+        "text": [
+            "Good relationships are so important for wellbeing! \nI want to help you learn so you can protect yourself iny our relationships",
+            "Imibanire myiza ni ingenzi cyane mu buzima Uyu mwitozo uzagufasha kwiga kugirango ubashe kwikingira mu mibanire yawe. Kanda 'Reka dukomeze' mugihe witeguye gutangira:        "
+        ],
+        "buttons": [
+            {
+                "Let's go!/Thanks!": "304"
+            },
+            {
+                "Twagiye            ": "304"
+            }
+        ]
+    },
+    "304": {
+        "text": [
+            "True 👍🏽 or false 👎🏾?\nYou can't tell who has HIV by looking at them",
+            "Nibyo 👍🏾 cyangwa Sibyiza 👎🏾? Ntushobora kumenya uwanduye virusi itera sida urebesheje ijisho.        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "305",
+                "👎🏾": "306"
+            },
+            {
+                "👍🏾": "305",
+                "👎🏾": "306"
+            }
+        ]
+    },
+    "305": {
+        "text": [
+            "True! People with HIV/AIDS don’t look any different from you or me!\nANYONE can get HIV so it's important to know how to protect yourself!",
+            "Nibyo! Abantu bafite na virusi itera SIDA ntaho batandukaniye nawe cyangwa nanjye\nUwo ariwe wese ashobora kwandura virusi itera SIDA niyo mpamvu buri wese agomba kuyirinda        "
+        ],
+        "buttons": [
+            {
+                "Next": "307"
+            },
+            {
+                "ibitekerezo": "307"
+            }
+        ]
+    },
+    "306": {
+        "text": [
+            "Nope, people with HIV/AIDS don’t look any different from you or me!\nANYONE can get HIV so it's important to know how to protect yourself! ",
+            "Oya, abantu bafite virusi itera SIDA ntaho batandukaniye nawe cyangwa nanjye!\nUwo ariwe wese ashobora kwandura virusi itera SIDA niyo mpamvu buri wese agomba kuyirinda        "
+        ],
+        "buttons": [
+            {
+                "Next": "307"
+            },
+            {
+                "ibitekerezo": "307"
+            }
+        ]
+    },
+    "307": {
+        "text": [
+            "Boys prove they are men by getting a girl pregnant",
+            "Abahungu bagaragaza ko ari abagabo mu gutwita umukobwa"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "308",
+                "👎🏾": "309"
+            },
+            {
+                "👍🏾": "308",
+                "👎🏾": "309"
+            }
+        ]
+    },
+    "308": {
+        "text": [
+            " No, getting a girl doesn't prove you're a man. -->In Rwandan culture, boys show they are becoming men when they plan their lives and care for others",
+            " No, getting a girl doesn't prove you're a man. -->In Rwandan culture, boys show they are becoming men when they plan their lives and care for others"
+        ],
+        "buttons": [
+            {
+                "Next": "310"
+            },
+            {
+                "ibitekerezo": "310"
+            }
+        ]
+    },
+    "309": {
+        "text": [
+            " That's correct! --> In Rwandan culture, boys show they are becoming men when they plan their lives and care for others",
+            "Nibyo! -> Mu muco w'u Rwanda, abahungu berekana ko babaye abagabo iyo bateganya ubuzima bwabo no kwita ku bandi"
+        ],
+        "buttons": [
+            {
+                "Next": "310"
+            },
+            {
+                "ibitekerezo": "310"
+            }
+        ]
+    },
+    "310": {
+        "text": [
+            " As a youth, I can get tested for HIV without my parents",
+            "Nkiri muto, nshobora kwipimisha virusi itera sida nta babyeyi banjye"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "311",
+                "👎🏾": "312"
+            },
+            {
+                "👍🏾": "311",
+                "👎🏾": "312"
+            }
+        ]
+    },
+    "311": {
+        "text": [
+            " That's right– you can go on your own or with your partner or a friend\nYou can go to a Health Centre, hospital or One Stop  Centre to request an HIV test. You can also call Babyl  (#811) to get information on how to be tested.",
+            "Nibyo - urashobora kugenda wenyine cyangwa hamwe numufasha wawe cyangwa inshuti\nUshobora kujya mukigo nderabuzima, ibitaro cyangwa ikigo kimwe gihagarika gusaba virusi itera sida. Urashobora kandi guhamagara Babul (# 811) kugirango ubone amakuru kuri uburyo bwo kwipimisha. "
+        ],
+        "buttons": [
+            {
+                "Next": "313"
+            },
+            {
+                "ibitekerezo": "313"
+            }
+        ]
+    },
+    "312": {
+        "text": [
+            " No, you don't need to have your parent with you. You can go on your own or with a friend \nYou can go to a Health Centre, hospital or One Stop Centre to request an HIV test. You can also call Babyl (#811) to get information on how to be tested.",
+            "Oya, ntukeneye kugira umubyeyi wawe nawe. Urashobora kujya wenyine cyangwa hamwe n'inshuti\nUrashobora kujya ku kigo nderabuzima, ibitaro cyangwa ikigo kimwe gihagarika gusaba virusi itera sida. Urashobora kandi guhamagara Babul. (# 811) kugirango ubone amakuru yuburyo bwo kwipimisha. "
+        ],
+        "buttons": [
+            {
+                "next": "313"
+            },
+            {
+                "ibitekerezo": "313"
+            }
+        ]
+    },
+    "313": {
+        "text": [
+            "What kind of behaviours do you think are more likely to lead to unprotected or unwanted sex?",
+            "Utekereza ko ari iyihe myitwarire ishobora gutera imibonano mpuzabitsina idakingiye cyangwa idashaka?"
+        ],
+        "skip": "314    "
+    },
+    "314": {
+        "text": [
+            "Thanks for sharing your ideas with me!\nHere are some behaviours that are more likely to lead to unprotected or unwanted sex...\nUnplanned sex \nPeer pressure\nDrinking alcohol\nCoveting things you don't have (e.g. lotion, phone,clothes)\nTaking drugs\nWalking alone in isolated places, especially after dark Irinde!",
+            "Urakoze kungezaho ibitekerezo byawe!\nDore imyitwarire imwe n'imwe ishobora kuganisha ku mibonano mpuzabitsina idakingiye cyangwa udashaka ... , imyenda)\nGufata ibiyobyabwenge\nKugenda wenyine ahantu hitaruye, cyane cyane nyuma ya Irinde yijimye! "
+        ],
+        "buttons": [
+            {
+                "OK": "315"
+            },
+            {
+                "OK": "315"
+            }
+        ]
+    },
+    "315": {
+        "text": [
+            "In the past, it was essential for girls to do guca imyeyo before marriage. Today, is it important? ",
+            "Kera, byari ibyingenzi ko abakobwa bakora guca imyeyo mbere y'ubukwe. Ese uyu munsi, ni ngombwa kuganira n'abakobwa kubyerekeye guca imyeyo?        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "316",
+                "👎🏾": "320",
+                "i dont know": "320"
+            },
+            {
+                "👍🏾": "316",
+                "👎🏾": "320",
+                "Sinzi": "320"
+            }
+        ]
+    },
+    "316": {
+        "text": [
+            "It's important to 'cover' a girl's private parts",
+            "Bifasha kwambika umwana w'umukobwa bigahisha ubwambure bwe        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "317",
+                "👎🏾": "317"
+            },
+            {
+                "👍🏾": "317",
+                "👎🏾": "317"
+            }
+        ]
+    },
+    "317": {
+        "text": [
+            "It enhances the man's pleasure during sex",
+            "Byongera umunezero w'umugabo mugihe cy'imibonano mpuzabitsina        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "318",
+                "👎🏾": "318"
+            },
+            {
+                "👍🏾": "318",
+                "👎🏾": "318"
+            }
+        ]
+    },
+    "318": {
+        "text": [
+            "It enhances the woman's pleasure during sex",
+            "Byongera umunezero w'umugore mugihe cy'imibonano mpuzabitsina        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "319",
+                "👎🏾": "319"
+            },
+            {
+                "👍🏾": "319",
+                "👎🏾": "319"
+            }
+        ]
+    },
+    "319": {
+        "text": [
+            "Guca imyeyo gives girls pleasure together",
+            "Guca imyeyo bitera abakobwa kwishima iyo bari hamwe        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "320",
+                "👎🏾": "320"
+            },
+            {
+                "👍🏾": "320",
+                "👎🏾": "320"
+            }
+        ]
+    },
+    "320": {
+        "text": [
+            "If someone does NOT want to have sexual relations, they look like: ",
+            "Umuntu udashaka gukora imibonano mpuzabitsina agaragazwa:        "
+        ],
+        "buttons": [
+            {
+                "a) -->": "321",
+                "b) --> Yes, this person might be saying Yes to sex": "321",
+                "c) -->": "321",
+                "d) -->": "321",
+                "e) -->": "321",
+                "f) -->": "321",
+                "g) -->": "321",
+                "h": "321"
+            },
+            {
+                "a) -->": "321",
+                "b) --> Yes, this person might be saying Yes to sex": "321",
+                "c) -->": "321",
+                "d) -->": "321",
+                "e) -->": "321",
+                "f) -->": "321",
+                "g) -->": "321",
+                "h": "321"
+            }
+        ]
+    },
+    "321": {
+        "text": [
+            "If someone looks like they don't want to have sex, or they don't say a CLEAR “Yes” to sex, or they look unhappy or change their mind, they are NOT agreeing to have sex It is illegal to have sex with this person",
+            "Niba umuntu asa nkudashaka gukora imibonano mpuzabitsina, cyangwa ntavuge Yego CYIZA ku mibonano mpuzabitsina, cyangwa basa naho batishimye cyangwa bahinduye imitekerereze, ntabwo bemera gukora imibonano mpuzabitsina Birabujijwe gukora imibonano mpuzabitsina hamwe n'uyu muntu "
+        ],
+        "buttons": [
+            {
+                "Next": "326"
+            },
+            {
+                "ibitekerezo": "326"
+            }
+        ]
+    },
+    "322": {
+        "text": [
+            "As a youth, I can get tested for HIV without my parents' permission or knowledge",
+            "Nkiri muto, nshobora kwipimisha virusi itera sida ntabiherewe uburenganzira n'ababyeyi"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "323",
+                "👎🏾": "324"
+            },
+            {
+                "👍🏾": "323",
+                "👎🏾": "324"
+            }
+        ]
+    },
+    "323": {
+        "text": [
+            "That's right – you can go on your own or with your partner or a friend",
+            "Nibyo - urashobora kugenda wenyine cyangwa hamwe na mugenzi wawe cyangwa inshuti"
+        ],
+        "buttons": [
+            {
+                "Next": "325"
+            },
+            {
+                "ibitekerezo": "325"
+            }
+        ]
+    },
+    "324": {
+        "text": [
+            " No, you don't need to have your parent with you. You can go on your own or with a friend",
+            "Oya, ntukeneye kugira umubyeyi wawe nawe. Urashobora kugenda wenyine cyangwa n'inshuti"
+        ],
+        "buttons": [
+            {
+                "Next": "325"
+            },
+            {
+                "ibitekerezo": "325"
+            }
+        ]
+    },
+    "325": {
+        "text": [
+            "You can go to a Health Centre, hospital or One Stop Centre to request an HIV test. You can also call Babyl (#811) to get information on how to be tested.",
+            "Urashobora kujya ku kigo nderabuzima, mu bitaro cyangwa mu kigo kimwe kugira ngo usabe virusi itera sida. Urashobora kandi guhamagara Babul (# 811) kugira ngo ubone amakuru yukuntu wapimwa."
+        ],
+        "buttons": [
+            {
+                "Next": "326"
+            },
+            {
+                "ibitekerezo": "326"
+            }
+        ]
+    },
+    "326": {
+        "text": [
+            "Which of these behaviours are high risk for pregnancy or STI/STDs?\nUnplanned sex",
+            "Ni iyihe muri iyo myitwarire ishobora guhura cyane no gutwita cyangwa indwara zandurira mu mibonano mpuzabitsina? \nImibonano mpuzabitsina idateganijwe"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "327",
+                "👎🏾": "328"
+            },
+            {
+                "👍🏾": "327",
+                "👎🏾": "328"
+            }
+        ]
+    },
+    "327": {
+        "text": [
+            " Yes! It's high risk",
+            "Yego! Ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "329"
+            },
+            {
+                "ibitekerezo": "329"
+            }
+        ]
+    },
+    "328": {
+        "text": [
+            " Actually, it is high risk        ",
+            "Mubyukuri, ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "329"
+            },
+            {
+                "ibitekerezo": "329"
+            }
+        ]
+    },
+    "329": {
+        "text": [
+            "Sex with multiple, concurrent partners        ",
+            "Imibonano mpuzabitsina n'abafatanyabikorwa benshi, bahuje"
+        ],
+        "buttons": [
+            {
+                "👍🏾": "330",
+                "👎🏾": "331"
+            },
+            {
+                "👍🏾": "330",
+                "👎🏾": "331"
+            }
+        ]
+    },
+    "330": {
+        "text": [
+            " Yes! It's high risk",
+            "Yego! Ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "332"
+            },
+            {
+                "ibitekerezo": "332"
+            }
+        ]
+    },
+    "331": {
+        "text": [
+            " Actually, it is high risk",
+            "Mubyukuri, ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "332"
+            },
+            {
+                "ibitekerezo": "332"
+            }
+        ]
+    },
+    "332": {
+        "text": [
+            "Having sex with your spouse",
+            "Gukorana imibonano mpuzabitsina n'uwo mwashakanye        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "333",
+                "👎🏾": "334"
+            },
+            {
+                "👍🏾": "333",
+                "👎🏾": "334"
+            }
+        ]
+    },
+    "333": {
+        "text": [
+            " No, it's lower risk but you still need to use protection",
+            "Mu by'ukuri, gukorana imibonano mpuzabitsina nuwo mwashakanye bizana ibyago bike ariko nanone uba ukeneye kwirinda        "
+        ],
+        "buttons": [
+            {
+                "Next": "335"
+            },
+            {
+                "ibitekerezo": "335"
+            }
+        ]
+    },
+    "334": {
+        "text": [
+            "Actually, it's lower risk but you still need to use protection",
+            "Nibyo, gukorana imibonano mpuzabitsina n'uwo mwashakanye bizana ibyago bike ariko nanone uba ukeneye kwirinda         "
+        ],
+        "buttons": [
+            {
+                "Next": "335"
+            },
+            {
+                "ibitekerezo": "335"
+            }
+        ]
+    },
+    "335": {
+        "text": [
+            "Unprotected sex",
+            "Imibonano mpuzabitsina idakingiye        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "336",
+                "👎🏾": "337"
+            },
+            {
+                "👍🏾": "336",
+                "👎🏾": "337"
+            }
+        ]
+    },
+    "336": {
+        "text": [
+            " Yes! It's high risk",
+            "Yego! Ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "338"
+            },
+            {
+                "ibitekerezo": "338"
+            }
+        ]
+    },
+    "337": {
+        "text": [
+            "Actually, it is high risk",
+            "Mubyukuri, ni ibyago byinshi"
+        ],
+        "buttons": [
+            {
+                "Next": "338"
+            },
+            {
+                "ibitekerezo": "338"
+            }
+        ]
+    },
+    "338": {
+        "text": [
+            "Having sex without birth control",
+            "Gukora imibonano mpuzabitsina utabanje  kuboneza urubyaro        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "339",
+                "👎🏾": "340"
+            },
+            {
+                "👍🏾": "339",
+                "👎🏾": "340"
+            }
+        ]
+    },
+    "339": {
+        "text": [
+            " Yes! It's high risk for pregnancy",
+            "Yego! Gukora  Imibonano mpuzabitsina utabanje kuboneza urubyaro bigutera ibyago byinshi byo gutwita 🤰🏾        "
+        ],
+        "buttons": [
+            {
+                "Next": "341"
+            },
+            {
+                "ibitekerezo": "341"
+            }
+        ]
+    },
+    "340": {
+        "text": [
+            " Actually, it is high risk for pregnancy",
+            "Mubyukuri! Gukora  Imibonano mpuzabitsina utabanje kuboneza urubyaro bigutera ibyago byinshi byo gutwita 🤰🏾        "
+        ],
+        "buttons": [
+            {
+                "Next": "341"
+            },
+            {
+                "ibitekerezo": "341"
+            }
+        ]
+    },
+    "341": {
+        "text": [
+            "Having sex with a person you don't know well",
+            "Gukorana imibonano mpuzabitsina n'umuntu utazi neza 🤔        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "342",
+                "👎🏾": "343"
+            },
+            {
+                "👍🏾": "342",
+                "👎🏾": "343"
+            }
+        ]
+    },
+    "342": {
+        "text": [
+            " Yes! It's both high risk and dangerous",
+            "Yego! Gukorana imibonano mpuzabitsina n'umuntu utazi neza ni ibyago byinshi kandi bishobora no kugushyira mukaga              "
+        ],
+        "buttons": [
+            {
+                "Next": "344"
+            },
+            {
+                "ibitekerezo": "344"
+            }
+        ]
+    },
+    "343": {
+        "text": [
+            " Actually, it is both high risk and dangerous",
+            "Mubyukuri! Gukorana imibonano mpuzabitsina n'umuntu utazi neza ni ibyago byinshi kandi bishobora no kugushyira mu kaga           "
+        ],
+        "buttons": [
+            {
+                "Next": "344"
+            },
+            {
+                "ibitekerezo": "344"
+            }
+        ]
+    },
+    "344": {
+        "text": [
+            "Using a condom",
+            "Gukoresha agakingirizo        "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "345",
+                "👎🏾": "346"
+            },
+            {
+                "👍🏾": "345",
+                "👎🏾": "346"
+            }
+        ]
+    },
+    "345": {
+        "text": [
+            " No, it's lower risk",
+            "Mubyukuri, gukoresha agakingirizo bigabanya ibyago byo gutwita no kwandura indwara zandurira mu mibonano mpuzabitsina        "
+        ],
+        "buttons": [
+            {
+                "Next": "347"
+            },
+            {
+                "ibitekerezo": "347"
+            }
+        ]
+    },
+    "346": {
+        "text": [
+            "Actually, it's lower risk ",
+            "Yego, gukoresha agakingirizo bigabanya ibyago byo gutwita no kwandura indwara zandurira mu mibonano mpuzabitsina        "
+        ],
+        "buttons": [
+            {
+                "Next": "347"
+            },
+            {
+                "ibitekerezo": "347"
+            }
+        ]
+    },
+    "347": {
+        "text": [
+            "If you don’t want to have a sexual relationship (including touching) with someone, or you're not sure, or you change your mind, what can you do? ",
+            "Niba udashaka gukora imibonano mpuzabitsina (harimo no gukoraho) n'umuntu, cyangwa ukaba utazi neza, cyangwa uhindura imitekerereze, wakora iki?"
+        ],
+        "skip": "348"
+    },
+    "348": {
+        "text": [
+            "Irinde! You can...Say “no”\nFind a way out of the situation\nYell for help\nCall the authorities for help\nSay I need time to think about it\nStop communicating with the person\nAsk someone wise for advice"
+        ],
+        "buttons": [
+            {
+                "Next": "349"
+            },
+            {
+                "ibitekerezo": "349"
+            }
+        ]
+    },
+    "349": {
+        "text": [
+            "Do you have any questions or comments about adolescent sex, love and relationships that you would like to ask?",
+            "Ese ahari ikibazo waba wifuza kubaza ku byerekeranye n'urukundo n'imibanire y'abangavu n'ingimbi?        "
+        ],
+        "buttons": [
+            {
+                "Yes": "350",
+                "Not now": "353"
+            },
+            {
+                "yego": "350",
+                "Oya ubutaha            ": "353"
+            }
+        ]
+    },
+    "350": {
+        "text": [
+            "How do you prefer to send me your comment or question?",
+            "Ese nigute wifuza kungezaho igitekerezo cyawe cyangwa ikibazo?        "
+        ],
+        "buttons": [
+            {
+                "Audio": "350.01",
+                "Video": "350.02",
+                "Text": "350.1"
+            },
+            {
+                "Amajwi            ": "350.01",
+                "video            ": "350.02",
+                "Inyandiko            ": "350.1"
+            }
+        ]
+    },
+    "351": {
+        "text": [
+            "Would you like me to contact you with further resources?",
+            "Urashaka ko nkuvugisha ukoresheje andi masoko?"
+        ],
+        "buttons": [
+            {
+                "Yes 👍🏾": "352",
+                "no ": "353"
+            },
+            {
+                "yego": "352",
+                "Oya": "353"
+            }
+        ]
+    },
+    "352": {
+        "text": [
+            " Please enter your phone number If you change your mind, just type NO-->",
+            "Shyiramo nomero yawe ya telefoni  cyangwase emeli yawe byafasha kukugeraho uwakwifuza kukuvugisha nyuma y'aha. Niba utabishaka kanda kuri  Oya kugirango ukomeze ariko umenyeko tutazabasha kukugeraho mu gihe haba hari nk' igisubizo dushaka kukugezaho"
+        ],
+        "skip": "353"
+    },
+    "353": {
+        "text": [
+            "What would you like to do next?",
+            "Urumva  ari iki wifuza gukurikizaho?        "
+        ],
+        "buttons": [
+            {
+                "Go to Main menu": "41",
+                "Talk again later ": "353.1"
+            }
+        ]
+    },
+    "53.1": {
+        "text": [
+            "Yell at my child",
+            "Uvuge umwana wanjye"
+        ],
+        "buttons": [
+            {
+                "Yes": "53.2",
+                "No": "53.2"
+            },
+            {
+                "yego": "53.2",
+                "oya": "53.2"
+            }
+        ]
+    },
+    "53.2": {
+        "text": [
+            "Ask if you can share advice",
+            "Baza niba ushobora gusangira inama"
+        ],
+        "buttons": [
+            {
+                "Yes": "53.3",
+                "No": "53.3"
+            },
+            {
+                "yego": "53.3",
+                "oya": "53.3"
+            }
+        ]
+    },
+    "53.3": {
+        "text": [
+            "Order them to stop seeing the person",
+            "Bategeke guhagarika kubona umuntu"
+        ],
+        "buttons": [
+            {
+                "Yes": "53.4",
+                "No": "53.4"
+            },
+            {
+                "yego": "53.4",
+                "oya": "53.4"
+            }
+        ]
+    },
+    "53.4": {
+        "text": [
+            "Ask questions and listen",
+            "Baza ibibazo wumve"
+        ],
+        "buttons": [
+            {
+                "Yes": "53.5",
+                "No": "53.5"
+            },
+            {
+                "yego": "53.5",
+                "oya": "53.5"
+            }
+        ]
+    },
+    "53.5": {
+        "text": [
+            "Welcome their friends in your home",
+            "Murakaza neza inshuti zabo murugo rwawe"
+        ],
+        "buttons": [
+            {
+                "Yes": "53.6",
+                "No": "53.6"
+            },
+            {
+                "yego": "53.6",
+                "oya": "53.6"
+            }
+        ]
+    },
+    "53.6": {
+        "text": [
+            "Ignore my child",
+            "Kwirengagiza umwana wanjye"
+        ],
+        "buttons": [
+            {
+                "Yes": "54",
+                "no": "54"
+            },
+            {
+                "yego": "54",
+                "oya": "54"
+            }
+        ]
+    },
+    "7.1": {
+        "text": [
+            "Before we chat more, I need to tell you a bit more about myself",
+            "Mbere yuko dukomeza ikiganiro, nkeneye kukwibwira ku buryo burambuye           "
+        ],
+        "buttons": [
+            {
+                "👍🏾": "7.2"
+            },
+            {
+                "👍🏾": "7.2"
+            }
+        ]
+    },
+    "7.2": {
+        "text": [
+            "Would you like to read this information or listen? ",
+            "Ese icyakorohera ni ugusoma cyangwa ni ugutega amatwi?            "
+        ],
+        "buttons": [
+            {
+                "Read": "8",
+                "Listen": "7.3"
+            },
+            {
+                "Gusoma                ": "8",
+                "Gutega amatwi                ": "7.3"
+            }
+        ]
+    },
+    "7.3": {
+        "text": [
+            "Audio file.Click 'Next' once you're done listening 👇🏾   else click NO     ",
+            "Kanda ku bikurikira  niba urangije kumva ikindi kanda OYA           "
+        ],
+        "buttons": [
+            {
+                "Next": "9",
+                "NO": "END+2"
+            },
+            {
+                "Ibikurikira                ": "9",
+                "Oya": "END+2"
+            }
+        ]
+    },
+    "56.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "57"
+    },
+    "56.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "57"
+    },
+    "66.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "67"
+    },
+    "66.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "67"
+    },
+    "77.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "78"
+    },
+    "77.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "78"
+    },
+    "91.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "92"
+    },
+    "91.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "92"
+    },
+    "101.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "102"
+    },
+    "101.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "102"
+    },
+    "160.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "161"
+    },
+    "160.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "161"
+    },
+    "160.1": {
+        "text": [
+            "please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "161"
+    },
+    "172.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "173"
+    },
+    "172.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "173"
+    },
+    "181.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "182"
+    },
+    "181.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "182"
+    },
+    "221.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "222"
+    },
+    "221.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "222"
+    },
+    "246.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "247"
+    },
+    "246.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "247"
+    },
+    "299.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "300"
+    },
+    "299.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "300"
+    },
+    "350.01": {
+        "text": [
+            "please enter audio file",
+            "nyamuneka andika dosiye y'amajwi"
+        ],
+        "skip": "351"
+    },
+    "350.02": {
+        "text": [
+            "please enter video",
+            "nyamuneka andika amashusho"
+        ],
+        "skip": "351"
+    },
+    "56.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "57"
+    },
+    "66.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "67"
+    },
+    "77.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "78"
+    },
+    "91.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "92"
+    },
+    "101.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "102"
+    },
+    "172.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "173"
+    },
+    "181.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "182"
+    },
+    "221.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "222"
+    },
+    "246.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "247"
+    },
+    "299.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "300"
+    },
+    "350.1": {
+        "text": [
+            "Please type in your comment",
+            "Nyamuneka andika igitekerezo cyawe"
+        ],
+        "skip": "351"
+    },
+    "94.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            }
+        ]
+    },
+    "59.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "69.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "80.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "104.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "163.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "175.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "184.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "224.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "249.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "302.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "353.1": {
+        "text": [
+            "Hi! Can you answer some quick questions on adolescent sex, love and relationships for me?",
+            "Muraho! Urashobora gusubiza ibibazo byihuse ku mibonano mpuzabitsina y'ingimbi, urukundo n'imibanire kuri njye?"
+        ],
+        "buttons": [
+            {
+                "sure": "sur1",
+                "Not now, thanks": "END+4"
+            },
+            {
+                "byanze bikunze": "sur1",
+                "Ntabwo ari ubu, urakoze": "END+4"
+            }
+        ]
+    },
+    "41.1": {
+        "text": [
+            "Do you want to listen to a mini radio  drama on adolescent SRH and relationships?",
+            "Urashaka kumva ikinamico ya radiyo nto kuri SRH ingimbi n'imibanire?"
+        ],
+        "buttons": [
+            {
+                "• Sure!": "42",
+                "Not now, thanks": "END+3"
+            },
+            {
+                "byanze bikunze": "42",
+                "Ntabwo ari ubu, urakoze": "END+3"
+            }
+        ]
+    },
+    "41.2": {
+        "text": [
+            "Do you want to do a quiz on adolescent SRH and relationships?",
+            "Urashaka gukora ikibazo kuri SRH ingimbi n'imibanire?"
+        ],
+        "buttons": [
+            {
+                "• Sure!": "45",
+                "Not now, thanks": "END+3"
+            },
+            {
+                "byanze bikunze": "45",
+                "Ntabwo ari ubu, urakoze": "END+3"
+            }
+        ]
+    },
+    "sur1": {
+        "text": [
+            "How was your experience with chatbot",
+            "Nigute uburambe bwawe hamwe na chatbot"
+        ],
+        "buttons": [
+            {
+                "good": "sur2",
+                "bad": "sur2"
+            },
+            {
+                "byiza": "sur2",
+                "bibi": "sur2"
+            }
+        ]
+    },
+    "sur2": {
+        "text": [
+            "Is this an experience you would share with your friends",
+            "Ese ubu ni uburambe wasangira n'inshuti zawe?"
+        ],
+        "buttons": [
+            {
+                "Yes": "sur3",
+                "no": "sur3"
+            },
+            {
+                "yego": "sur3",
+                "Oya": "sur3"
+            }
+        ]
+    },
+    "sur3": {
+        "text": [
+            "Have you clearly learnt from interfacing with chatbot",
+            "Waba warize neza mu guhuza ibiganiro na chatbot"
+        ],
+        "buttons": [
+            {
+                "Yes": "END+4",
+                "no": "END+4"
+            },
+            {
+                "yego": "END+4",
+                "oya": "END+4"
+            }
+        ]
+    },
+    "END+1": {
+        "text": [
+            "We'd love to talk with you when you are 13! Thanks for checking us out! END",
+            "Twifuzaga kuvugana nawe ufite imyaka 13! Urakoze kutugenzura! END."
+        ]
+    },
+    "END+2": {
+        "text": [
+            "No problem! It was nice to meet you! If you change your mind, you know where to find me! Here's more information on our data policies",
+            "Nta kibazo! Byari byiza guhura nawe! Niba uhinduye imitekerereze, uzi aho wansanga! Dore andi makuru kuri politiki yacu."
+        ]
+    },
+    "END+3": {
+        "text": [
+            "Ok, no problem!\n  Anytime you want to end a chat you can type END.\n Let's talk again soon!",
+            "Ok, nta kibazo!\nIgihe icyo ari cyo cyose ushaka guhagarika ikiganiro ushobora kwandika END.\nReka twongere tuganire vuba!"
+        ]
+    },
+    "END+4": {
+        "text": [
+            " No problem! ---> Let's talk again soon!",
+            "Nta kibazo! ---> Reka twongere tuganire vuba!"
+        ]
+    }
+}
